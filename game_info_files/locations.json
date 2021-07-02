@@ -1,0 +1,82 @@
+{
+    "home": {
+        "name": "Home",
+        "description": "A quiet cottage sitting beside the wilding forest, surrounded by a low stone wall with a simple wooden gate and several large maple trees shading the yard. A long road twists off across the plains to the north and south. Inside there is a wide sitting room, connected to a kitchen and a flight of stairs go up to the second floor. A closed door is against one wall",
+        "connectsto": {
+            "wildingforest":" ", 
+            "test3":" ",
+            "homebasement": " ",
+            "secretRoomHome": " "
+        },
+        "contains": {
+            "door": ["open", "the basement"],
+            "secretDoorHome": ["open", "a secret room"],
+            "chickens": ["feed"],
+            "fireplace": ["light"]
+        },
+        "basestate": {
+            "basementdoor": false,
+            "secretDoorHome": false,
+            "chickensfed": false,
+            "firestarted": false
+        }
+    },
+    "secretRoomHome": {
+        "name": "The Secret Room",
+        "description": "The stairs lift up revealing a ladder that leads down to a dark room. A table sits in the middle of the room, empty but for a dagger stabbed into its surface. On one wall a map hangs, though it is partially torn, a corner missing.",
+        "connectsto": {
+            "home": " "
+        },
+        "contains": {
+        },
+        "basestate": {
+        }
+    },
+    "wildingforest": {
+        "name": "The Wilding Forest",
+        "description": "The forest surrounds you, trees too large to wrap your arms around, their deep green leaves blotting out the sun and leaving the ground dappled in patches of light, the sounds of birds echoing invitingly from deeper among the trees",
+        "connectsto": {
+            "home":" ", 
+            "test4":" ",
+            "test3":" "
+        },
+        "basestate": {
+            "fixedladder": false,
+            "foundbone": false,
+            "tookbone": false
+        }
+    },
+    "homebasement": {
+        "name": "Basement",
+        "description": " ",
+        "connectsto": {
+            "home":" " 
+        },
+        "basestate": {
+            "litlight": " "
+        }
+    },
+    "test3": {
+        "name": "test3",
+        "description": "test3",
+        "connectsto": {
+            "wildingforest":" ", 
+            "home":" "
+        }
+    },
+    "test4": {
+        "name": "test4",
+        "description": "test4",
+        "connectsto": {
+            "test2":" ", 
+            "test5":" "
+        }
+    },
+    "test5": {
+        "name": "test5",
+        "description": "test5",
+        "connectsto":{
+            "test4":" "
+        }
+    }
+}

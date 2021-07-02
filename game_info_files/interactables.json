@@ -1,0 +1,10 @@
+{
+    "door": {
+        "name": "door",
+        "description": "The door opens and reveals"
+    },
+    "secretDoorHome": {
+        "name": "secret door",
+        "description":"The hidden door opens and reveals"
+    }
+}

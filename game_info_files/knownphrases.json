@@ -1,0 +1,36 @@
+{
+    "knownwords":[{
+        "word": "go to",
+        "action": "travel"
+    },{
+        "word": "walk to",
+        "action": "travel"
+    },{
+        "word": "walk",
+        "action": "travel"
+    },{
+        "word": "travel",
+        "action": "travel"
+    },{
+        "word": "interact",
+        "action": "interact"
+    },{
+        "word": "touch",
+        "action": "inspect"
+    },{
+        "word": "inspect",
+        "action": "inspect"
+    },{
+        "word": "open",
+        "action": "open"
+    },{
+        "word": "location",
+        "action": "locations"
+    },{
+        "word": "where am i",
+        "action": "locations"
+    },{
+        "word": "know locations",
+        "action": "locations"
+    }]
+}
