@@ -1,3 +1,5 @@
+const Discord = require('discord.js');
+
 const _ = require('lodash');
 const characterdata = require('../services/savecharacterdata.js');
 let movechar = require('../game_systems/travel');
@@ -31,6 +33,7 @@ module.exports = {
         let input = '';
         let playerObj = JSON.parse(filereader.readJsonTextFile(msg.author.username + '.json'));
         let obj = decodeUserInput(knownwords, destroyedValue);
+        //console.log(obj.action + ' ' + obj.word + ' ' + destroyedValue);
         if (!obj) {
             msg.reply("We had trouble understanding your input");
             return;
@@ -39,6 +42,7 @@ module.exports = {
         command = obj.action;
 
         if (command == 'travel') {
+            console.log('travel')
             let travel = handleTravel(msg, input, movechar);
             return;
         } else if (command == 'open') {
@@ -48,20 +52,37 @@ module.exports = {
             }
             return;
         } else if (command == 'interact') {
+            console.log('interact')
             let open = handleOpen(input, playerObj)
             if (open) {
                 msg.reply(open);
             }
             return;
         } else if (command == 'inspect') {
+            console.log('inspect')
             let open = handleOpen(input, playerObj)
             if (open) {
                 msg.reply(open);
             }
             return;
         } else if (command == 'locations') {
+            console.log('location')
             msg.reply("Your location: " + playerObj.information.location)
             handleTravel(msg, null, movechar);
+            return;
+        } else if (command == 'character') {
+            console.log('character')
+
+            const embedReply = new Discord.MessageEmbed()
+                .setColor('#0099ff')
+                .setTitle('Jozan')
+                .setDescription('')
+                .addField('Health: ', playerObj.information.health, true)
+                .addField('Armor: ', playerObj.information.armor, true)
+                .addField('Level: ', playerObj.information.level, true)
+                .addField('Location: ', playerObj.information.location, true)
+
+            msg.reply(embedReply);
             return;
         }
 
@@ -84,11 +105,19 @@ function decodeDescriptionVars(val, player) {
   
 function decodeUserInput(knownwords, input) {
     input = input.toUpperCase();
+    let choices = [];
     for (let i = 0; i < knownwords.length; i++) {
         if (input.includes(knownwords[i].word.toUpperCase())) {
-            return knownwords[i]
+            choices.push(knownwords[i]);
         }
     }
+    choices.forEach(c => {
+        console.log(c.word.toUpperCase() + ' ' + input);
+        console.log(similarity.checkSimilarity(c.word.toUpperCase(), input));
+        if (similarity.checkSimilarity(c.word, input) > .8) {
+            return c;
+        }
+    });
     return false;
 }
 

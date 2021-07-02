@@ -1,3 +1,4 @@
+const Discord = require('discord.js');
 module.exports = {
     name: 'roll',
     description: '(number of dice)D(type of dice)',
@@ -68,7 +69,14 @@ module.exports = {
             }
         }
 
-        msg.reply('\nYou Rolled: ' + orgString + '\nResult: ' + total + ' ('+ s + ')');
+        const embedReply = new Discord.MessageEmbed()
+            .setColor('#0099ff')
+            .setTitle('Roll Result')
+            .setDescription(total)
+            .addField('You Rolled: ', orgString, true)
+            .addField('Dice Results: ', s, true)
+
+        msg.reply(embedReply);
     }
   };
 

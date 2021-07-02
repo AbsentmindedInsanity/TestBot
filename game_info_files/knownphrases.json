@@ -32,5 +32,17 @@
     },{
         "word": "know locations",
         "action": "locations"
+    },{
+        "word": "character",
+        "action": "character"
+    },{
+        "word": "who am I",
+        "action": "character"
+    },{
+        "word": "me",
+        "action": "character"
+    },{
+        "word": "go",
+        "action": "travel"
     }]
 }

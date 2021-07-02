@@ -1,0 +1,1475 @@
+d20pfsrd    https://www.d20pfsrd.com/
+basics & ability scores    https://www.d20pfsrd.com/basics-ability-scores/
+alignment & description    https://www.d20pfsrd.com/alignment-description/
+races    https://www.d20pfsrd.com/races/
+classes    https://www.d20pfsrd.com/classes/
+character advancement    https://www.d20pfsrd.com/classes/character-advancement/
+class archetypes    https://www.d20pfsrd.com/classes/class-archetypes/
+core classes    https://www.d20pfsrd.com/classes/core-classes/
+barbarian    https://www.d20pfsrd.com/classes/core-classes/barbarian/
+bard    https://www.d20pfsrd.com/classes/core-classes/bard/
+cleric    https://www.d20pfsrd.com/classes/core-classes/cleric/
+druid    https://www.d20pfsrd.com/classes/core-classes/druid/
+fighter    https://www.d20pfsrd.com/classes/core-classes/fighter/
+monk    https://www.d20pfsrd.com/classes/core-classes/monk/
+paladin    https://www.d20pfsrd.com/classes/core-classes/paladin/
+ranger    https://www.d20pfsrd.com/classes/core-classes/ranger/
+rogue    https://www.d20pfsrd.com/classes/core-classes/rogue/
+sorcerer    https://www.d20pfsrd.com/classes/core-classes/sorcerer/
+wizard    https://www.d20pfsrd.com/classes/core-classes/wizard/
+base classes    https://www.d20pfsrd.com/classes/base-classes/
+alternate classes    https://www.d20pfsrd.com/classes/alternate-classes/
+hybrid classes    https://www.d20pfsrd.com/classes/hybrid-classes/
+unchained classes    https://www.d20pfsrd.com/classes/unchained-classes/
+prestige classes    https://www.d20pfsrd.com/classes/prestige-classes/
+npc classes    https://www.d20pfsrd.com/classes/npc-classes/
+3rd party classes    https://www.d20pfsrd.com/classes/3rd-party-classes/
+monster classes (3pp)    https://www.d20pfsrd.com/classes/monster-classes/
+arcane archetypes (3pp)    https://www.d20pfsrd.com/classes/arcane-archetypes-rogue-genius-games/
+3rd party prestige classes    https://www.d20pfsrd.com/classes/3rd-party-prestige-classes/
+3rd party npc classes    https://www.d20pfsrd.com/classes/3rd-party-npc-classes/
+feats    https://www.d20pfsrd.com/feats/
+conduit feats    https://www.d20pfsrd.com/feats/conduit-feats/
+combat feats    https://www.d20pfsrd.com/feats/combat-feats/
+other feats    https://www.d20pfsrd.com/feats/other-feats/
+general feats    https://www.d20pfsrd.com/feats/general-feats/
+metamagic feats    https://www.d20pfsrd.com/feats/metamagic-feats/
+item creation feats    https://www.d20pfsrd.com/feats/item-creation-feats/
+style feats    https://www.d20pfsrd.com/feats/style-feats/
+skills    https://www.d20pfsrd.com/skills/
+traits    https://www.d20pfsrd.com/traits/
+equipment    https://www.d20pfsrd.com/equipment/
+magic items    https://www.d20pfsrd.com/magic-items/
+magic    https://www.d20pfsrd.com/magic/
+gamemastering    https://www.d20pfsrd.com/gamemastering/
+snow globe    https://www.d20pfsrd.com/snow-globe/
+bestiary    https://www.d20pfsrd.com/bestiary/
+alternative rule systems    https://www.d20pfsrd.com/alternative-rule-systems/
+d20pfsrd.com publishing store    https://www.d20pfsrd.com/d20pfsrd-com-publishing-store/
+show    https://www.d20pfsrd.com/feats/combat-feats/#
+all combat feats    https://www.d20pfsrd.com/feats/combat-feats/#all_combat_feats
+feat descriptions    https://www.d20pfsrd.com/feats/combat-feats/#feat_descriptions
+combat feats    https://www.d20pfsrd.com/feats/combat-feats/#combat_feats
+-a-    https://www.d20pfsrd.com/feats/combat-feats/#-a
+-b-    https://www.d20pfsrd.com/feats/combat-feats/#-b
+-c-    https://www.d20pfsrd.com/feats/combat-feats/#-c
+-d-    https://www.d20pfsrd.com/feats/combat-feats/#-d
+-e-    https://www.d20pfsrd.com/feats/combat-feats/#-e
+-f-    https://www.d20pfsrd.com/feats/combat-feats/#-f
+-g-    https://www.d20pfsrd.com/feats/combat-feats/#-g
+-h-    https://www.d20pfsrd.com/feats/combat-feats/#-h
+-i-    https://www.d20pfsrd.com/feats/combat-feats/#-i
+-j-    https://www.d20pfsrd.com/feats/combat-feats/#-j
+-k-    https://www.d20pfsrd.com/feats/combat-feats/#-k
+-l-    https://www.d20pfsrd.com/feats/combat-feats/#-l
+-m-    https://www.d20pfsrd.com/feats/combat-feats/#-m
+-n-    https://www.d20pfsrd.com/feats/combat-feats/#-n
+-o-    https://www.d20pfsrd.com/feats/combat-feats/#-o
+-p-    https://www.d20pfsrd.com/feats/combat-feats/#-p
+-q-    https://www.d20pfsrd.com/feats/combat-feats/#-q
+-r-    https://www.d20pfsrd.com/feats/combat-feats/#-r
+-s-    https://www.d20pfsrd.com/feats/combat-feats/#-s
+-t-    https://www.d20pfsrd.com/feats/combat-feats/#-t
+-u-    https://www.d20pfsrd.com/feats/combat-feats/#-u
+-v-    https://www.d20pfsrd.com/feats/combat-feats/#-v
+-w to z-    https://www.d20pfsrd.com/feats/combat-feats/#-w_to_z
+brawlers    https://www.d20pfsrd.com/classes/hybrid-classes/brawler
+fighters    https://www.d20pfsrd.com/classes/core-classes/fighter
+gunslingers    https://www.d20pfsrd.com/classes/base-classes/gunslinger
+magi    https://www.d20pfsrd.com/classes/base-classes/magus/
+swashbucklers    https://www.d20pfsrd.com/classes/hybrid-classes/swashbuckler
+warpriests    https://www.d20pfsrd.com/classes/hybrid-classes/warpriest
+armor mastery    https://www.d20pfsrd.com/feats/armor-mastery-feats/
+shield mastery    https://www.d20pfsrd.com/feats/shield-mastery-feats/
+weapon mastery    https://www.d20pfsrd.com/feats/weapon-mastery-feats
+all combat feats    https://www.d20pfsrd.com/feats/combat-feats/all-combat-feats
+bab    https://www.d20pfsrd.com/basics-ability-scores/glossary#toc-base-attack-bonus-bab-
+a    https://www.d20pfsrd.com/feats/combat-feats/#a
+b    https://www.d20pfsrd.com/feats/combat-feats/#b
+c    https://www.d20pfsrd.com/feats/combat-feats/#c
+d    https://www.d20pfsrd.com/feats/combat-feats/#d
+e    https://www.d20pfsrd.com/feats/combat-feats/#e
+f    https://www.d20pfsrd.com/feats/combat-feats/#f
+g    https://www.d20pfsrd.com/feats/combat-feats/#g
+h    https://www.d20pfsrd.com/feats/combat-feats/#h
+i    https://www.d20pfsrd.com/feats/combat-feats/#i
+j    https://www.d20pfsrd.com/feats/combat-feats/#j
+k    https://www.d20pfsrd.com/feats/combat-feats/#k
+l    https://www.d20pfsrd.com/feats/combat-feats/#l
+m    https://www.d20pfsrd.com/feats/combat-feats/#m
+n    https://www.d20pfsrd.com/feats/combat-feats/#n
+o    https://www.d20pfsrd.com/feats/combat-feats/#o
+p    https://www.d20pfsrd.com/feats/combat-feats/#p
+q    https://www.d20pfsrd.com/feats/combat-feats/#q
+r    https://www.d20pfsrd.com/feats/combat-feats/#r
+s    https://www.d20pfsrd.com/feats/combat-feats/#s
+t    https://www.d20pfsrd.com/feats/combat-feats/#t
+u    https://www.d20pfsrd.com/feats/combat-feats/#u
+v    https://www.d20pfsrd.com/feats/combat-feats/#v
+w to z    https://www.d20pfsrd.com/feats/combat-feats/#w-z
+acrobatic spellcaster    https://www.d20pfsrd.com/feats/combat-feats/acrobatic-spellcaster-combat
+combat casting    https://www.d20pfsrd.com/feats/general-feats/combat-casting
+skill focus    https://www.d20pfsrd.com/feats/general-feats/skill-focus
+acrobatics    https://www.d20pfsrd.com/skills/acrobatics
+attacks of opportunity    https://www.d20pfsrd.com/gamemastering/combat#toc-attacks-of-opportunity
+pzo1134  
+adder strike    https://www.d20pfsrd.com/feats/combat-feats/adder-strike-combat
+poison use    https://www.d20pfsrd.com/classes/prestige-classes/core-rulebook/assassin#toc-poison-use
+improved unarmed strike    https://www.d20pfsrd.com/feats/combat-feats/improved-unarmed-strike-combat
+craft    https://www.d20pfsrd.com/skills/craft
+poison    https://www.d20pfsrd.com/gamemastering/afflictions/poison
+pzo1118    http://www.amazon.com/gp/product/1601253591/
+pinpoint poisoner    https://www.d20pfsrd.com/feats/combat-feats/pinpoint-poisoner-combat
+two-weapon fighting    https://www.d20pfsrd.com/feats/combat-feats/two-weapon-fighting-combat
+flurry of blows    https://www.d20pfsrd.com/classes/core-classes/monk#toc-flurry-of-blows-ex-
+blowgun    https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/blowgun
+advanced armor training    https://www.d20pfsrd.com/feats/combat-feats/advanced-armor-training-combat
+armor training    https://www.d20pfsrd.com/classes/core-classes/fighter#toc-armor-training-ex-
+fighter    https://www.d20pfsrd.com/classes/core-classes/fighter
+pzo9467   
+advanced defensive combat training    https://www.d20pfsrd.com/feats/combat-feats/advanced-defensive-combat-training-combat-faction
+faction    https://www.d20pfsrd.com/feats/faction-feats
+defensive combat training    https://www.d20pfsrd.com/feats/combat-feats/defensive-combat-training-combat
+cmd    https://www.d20pfsrd.com/gamemastering/combat#toc-combat-maneuver-defense
+pzo9221    http://www.amazon.com/gp/product/1601252218/
+advanced weapon training    https://www.d20pfsrd.com/feats/combat-feats/advanced-weapon-training-combat
+weapon training    https://www.d20pfsrd.com/classes/core-classes/fighter/#toc-weapon-training-ex-
+advanced weapon training    https://www.d20pfsrd.com/classes/core-classes/fighter/#toc-advanced-weapon-training
+agile maiden    https://www.d20pfsrd.com/feats/combat-feats/agile-maiden-combat
+str    https://www.d20pfsrd.com/basics-ability-scores/ability-scores#toc-strength-str-
+dex    https://www.d20pfsrd.com/basics-ability-scores/ability-scores#toc-dexterity-dex-
+endurance    https://www.d20pfsrd.com/feats/general-feats/endurance-
+ranger’s    https://www.d20pfsrd.com/classes/core-classes/ranger
+barbarian’s    https://www.d20pfsrd.com/classes/core-classes/barbarian
+fast movement    https://www.d20pfsrd.com/classes/core-classes/monk#toc-fast-movement-ex-
+magus’s    https://www.d20pfsrd.com/classes/base-classes/magus
+gray maiden plate    https://www.d20pfsrd.com/equipment/armor/gray-maiden-plate
+armor    https://www.d20pfsrd.com/basics-ability-scores/glossary#toc-armor-bonus
+agile maneuvers    https://www.d20pfsrd.com/feats/combat-feats/agile-maneuvers-combat
+cmb    https://www.d20pfsrd.com/gamemastering/combat#toc-combat-maneuver-bonus
+pzo1110    https://amzn.to/2e3dyvm
+alchemical strike    https://www.d20pfsrd.com/feats/combat-feats/alchemical-strike-combat
+throw anything    https://www.d20pfsrd.com/feats/combat-feats/throw-anything-combat
+bab    https://www.d20pfsrd.com/gamemastering/combat#toc-attack-bonus
+pzo9468    https://www.amazon.com/player-companion-tactics-toolbox-pathfinder/dp/1601258380/ref=sr_1_1?ie=utf8&qid=1466955570&sr=8-1&keywords=magic+tactics+toolbox
+all-consuming swing    https://www.d20pfsrd.com/feats/combat-feats/all-consuming-swing-combat
+power attack    https://www.d20pfsrd.com/feats/combat-feats/power-attack-combat
+cleave    https://www.d20pfsrd.com/feats/combat-feats/cleave-combat
+vital strike    https://www.d20pfsrd.com/feats/combat-feats/vital-strike-combat
+great cleave    https://www.d20pfsrd.com/feats/combat-feats/great-cleave-combat
+improved vital strike    https://www.d20pfsrd.com/feats/combat-feats/improved-vital-strike-combat
+greater vital strike    https://www.d20pfsrd.com/feats/combat-feats/greater-vital-strike-combat
+damage reduction    https://www.d20pfsrd.com/gamemastering/special-abilities#toc-damage-reduction
+pzo9446    http://www.amazon.com/gp/product/1601256507/
+amateur gunslinger    https://www.d20pfsrd.com/feats/combat-feats/amateur-gunslinger-combat
+grit    https://www.d20pfsrd.com/classes/base-classes/gunslinger#toc-grit-ex-
+gunslinger    https://www.d20pfsrd.com/classes/base-classes/gunslinger
+amateur swashbuckler    https://www.d20pfsrd.com/feats/general-feats/amateur-swashbuckler-combat
+swashbuckler    https://www.d20pfsrd.com/classes/hybrid-classes/swashbuckler
+pzo1129    http://www.amazon.com/gp/product/160125671x/
+ambush awareness    https://www.d20pfsrd.com/feats/combat-feats/ambush-awareness-combat
+alertness    https://www.d20pfsrd.com/feats/general-feats/alertness/
+total defense    https://www.d20pfsrd.com/gamemastering/combat#toc-total-defense
+pzo1140    http://amzn.to/2z71s07
+ambush sense    https://www.d20pfsrd.com/feats/combat-feats/ambush-sense-combat
+int    https://www.d20pfsrd.com/basics-ability-scores/ability-scores#toc-intelligence-int-
+trap sense    https://www.d20pfsrd.com/classes/core-classes/rogue#toc-trap-sense-ex-
+perception    https://www.d20pfsrd.com/skills/perception
+surprise    https://www.d20pfsrd.com/gamemastering/combat#toc-surprise
+dodge bonus    https://www.d20pfsrd.com/basics-ability-scores/glossary#toc-dodge-bonus
+ambush squad    https://www.d20pfsrd.com/feats/combat-feats/ambush-squad-combat-teamwork
+kobold    https://www.d20pfsrd.com/races/other-races/featured-races/arg-kobold
+move action    https://www.d20pfsrd.com/gamemastering/combat#toc-move-actions
+standard action    https://www.d20pfsrd.com/gamemastering/combat#toc-standard-actions
+pzo9280    http://www.amazon.com/gp/product/1601257228/
+ammo drop    https://www.d20pfsrd.com/feats/combat-feats/ammo-drop-combat
+sleight of hand    https://www.d20pfsrd.com/skills/sleight-of-hand
+sling    https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/sling
+double-sling    https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/sling-double
+swift action    https://www.d20pfsrd.com/gamemastering/combat#toc-swift-actions
+pzo9415    http://www.amazon.com/gp/product/1601252781/
+anatomical savant    https://www.d20pfsrd.com/feats/combat-feats/anatomical-savant-combat
+weapon focus    https://www.d20pfsrd.com/feats/combat-feats/weapon-focus
+base attack bonus    https://www.d20pfsrd.com/gamemastering/combat#toc-attack-bonus
+sneak attacks    https://www.d20pfsrd.com/classes/core-classes/rogue#toc-sneak-attack
+critical hit    https://www.d20pfsrd.com/gamemastering/combat#toc-critical-hits
+sneak attack    https://www.d20pfsrd.com/classes/core-classes/rogue#toc-sneak-attack
+ancestral enmity    https://www.d20pfsrd.com/feats/combat-feats/ancestral-enmity-combat
+giant    https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#toc-giant
+attack rolls    https://www.d20pfsrd.com/gamemastering/combat#toc-attack-roll
+dwarves    https://www.d20pfsrd.com/races/core-races/dwarf
+gnomes    https://www.d20pfsrd.com/races/core-races/gnome
+ancestral weapon mastery    https://www.d20pfsrd.com/feats/combat-feats/ancestral-weapon-mastery-combat
+weapon focus    https://www.d20pfsrd.com/feats/combat-feats/weapon-focus-combat
+animal ferocity    https://www.d20pfsrd.com/feats/combat-feats/animal-ferocity-combat
+base attack bonus    https://www.d20pfsrd.com/basics-ability-scores/glossary#toc-base-attack-bonus-bab-
+ferocity    https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#toc-ferocity-ex-
+hit points    https://www.d20pfsrd.com/gamemastering/combat#toc-hit-points
+ankle biter    https://www.d20pfsrd.com/feats/combat-feats/ankle-biter-combat-goblin
+goblin    https://www.d20pfsrd.com/races/other-races/featured-races/arg-goblin
+escape artist    https://www.d20pfsrd.com/skills/escape-artist
+combat maneuver    https://www.d20pfsrd.com/gamemastering/combat#toc-combat-maneuvers
+immediate action.    https://www.d20pfsrd.com/gamemastering/combat#toc-immediate-actions
+pzo9419    http://www.amazon.com/gp/product/1601253621/
+anticipate dodge    https://www.d20pfsrd.com/feats/combat-feats/anticipate-dodge-combat
+dodge    https://www.d20pfsrd.com/feats/combat-feats/dodge-combat
+mobility    https://www.d20pfsrd.com/feats/combat-feats/mobility-combat
+brawler    https://www.d20pfsrd.com/classes/hybrid-classes/brawler
+aquatic combatant    https://www.d20pfsrd.com/feats/combat-feats/aquatic-combatant-combat
+swim    https://www.d20pfsrd.com/skills/swim
+arc slinger    https://www.d20pfsrd.com/feats/combat-feats/arc-slinger-combat
+point-blank shot    https://www.d20pfsrd.com/feats/combat-feats/point-blank-shot-combat
+halfling    https://www.d20pfsrd.com/races/core-races/halfling
+sling staff    https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/sling-staff-halfling
+arcane armor mastery    https://www.d20pfsrd.com/feats/combat-feats/arcane-armor-mastery-combat
+arcane armor training    https://www.d20pfsrd.com/feats/combat-feats/arcane-armor-training-combat
+armor proficiency, medium    https://www.d20pfsrd.com/feats/combat-feats/armor-proficiency-medium
+cl    https://www.d20pfsrd.com/magic#toc-caster-level
+arcane spell failure    https://www.d20pfsrd.com/equipment/armor#toc-arcane-spell-failure-chance
+armor proficiency, light    https://www.d20pfsrd.com/feats/combat-feats/armor-proficiency-light
+arcane strike    https://www.d20pfsrd.com/feats/combat-feats/arcane-strike-combat
+archon style    https://www.d20pfsrd.com/feats/combat-feats/archon-style-combat-style
+style    https://www.d20pfsrd.com/feats/style-feats/
+combat expertise    https://www.d20pfsrd.com/feats/combat-feats/combat-expertise-combat
+combat reflexes    https://www.d20pfsrd.com/feats/combat-feats/combat-reflexes-combat
+pzo9424    http://www.amazon.com/gp/product/1601254385/
+archon diversion    https://www.d20pfsrd.com/feats/combat-feats/archon-diversion-combat
+archon justice    https://www.d20pfsrd.com/feats/combat-feats/archon-justice-combat
+aoo    https://www.d20pfsrd.com/gamemastering/combat#toc-attacks-of-opportunity
+arcing weapon    https://www.d20pfsrd.com/feats/combat-feats/arcing-weapon-combat
+touch attack    https://www.d20pfsrd.com/gamemastering/combat#toc-touch-attacks
+magus    https://www.d20pfsrd.com/classes/base-classes/magus
+ppc:col    https://amzn.to/2qd7bem
+armor adept    https://www.d20pfsrd.com/feats/combat-feats/armor-adept-combat
+armor modifications    https://www.d20pfsrd.com/equipment/armor/armor-modifications/
+deflecting    https://www.d20pfsrd.com/equipment/armor/armor-modifications/deflecting/
+jarring    https://www.d20pfsrd.com/equipment/armor/armor-modifications/jarring/
+armor focus    https://www.d20pfsrd.com/feats/combat-feats/armor-focus-combat
+improved armor focus    https://www.d20pfsrd.com/feats/combat-feats/improved-armor-focus-combat
+armor proficiency, heavy    https://www.d20pfsrd.com/feats/combat-feats/armor-proficiency-heavy
+armor trick    https://www.d20pfsrd.com/feats/combat-feats/armor-trick-combat
+armored athlete    https://www.d20pfsrd.com/feats/combat-feats/armored-athlete-combat
+dexterity    https://www.d20pfsrd.com/basics-ability-scores/ability-scores#toc-dexterity-dex-
+strength    https://www.d20pfsrd.com/basics-ability-scores/ability-scores#toc-strength-str-
+pzo9455    http://www.amazon.com/gp/product/1601257325/
+artful dodge    https://www.d20pfsrd.com/feats/combat-feats/artful-dodge-combat
+artillery team    https://www.d20pfsrd.com/feats/combat-feats/artillery-team-combat-teamwork
+light crossbow    https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/crossbow-light
+heavy crossbow    https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/crossbow-heavy
+musket    https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/musket
+artistry    https://www.d20pfsrd.com/feats/combat-feats/artistry-combat
+exotic weapon proficiency    https://www.d20pfsrd.com/feats/combat-feats/exotic-weapon-proficiency
+dueling sword    https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/sword-dueling
+weapon finesse    https://www.d20pfsrd.com/feats/combat-feats/weapon-finesse-combat
+combat maneuvers    https://www.d20pfsrd.com/gamemastering/combat#toc-combat-maneuvers
+disarm    https://www.d20pfsrd.com/gamemastering/combat#toc-disarm
+reposition    https://www.d20pfsrd.com/gamemastering/combat#toc-reposition
+steal    https://www.d20pfsrd.com/gamemastering/combat#toc-steal
+sunder    https://www.d20pfsrd.com/gamemastering/combat#toc-sunder
+trip    https://www.d20pfsrd.com/gamemastering/combat#toc-trip
+improved trip    https://www.d20pfsrd.com/feats/combat-feats/improved-trip
+ascetic style    https://www.d20pfsrd.com/feats/combat-feats/ascetic-style-combat-style
+fighter weapon group    https://www.d20pfsrd.com/classes/core-classes/fighter/#toc-weapon-training-ex-
+unarmed strike    https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/strike-unarmed
+ascetic form    https://www.d20pfsrd.com/feats/combat-feats/ascetic-form-combat
+stunning fist    https://www.d20pfsrd.com/feats/combat-feats/stunning-fist-combat
+perfect strike    https://www.d20pfsrd.com/feats/combat-feats/perfect-strike-combat
+ascetic strike    https://www.d20pfsrd.com/feats/combat-feats/ascetic-strike-combat
+brawler’s    https://www.d20pfsrd.com/classes/hybrid-classes/brawler
+close weapon mastery    https://www.d20pfsrd.com/classes/hybrid-classes/brawler/#toc-close-weapon-mastery-ex-
+awe-inspiring smash    https://www.d20pfsrd.com/feats/combat-feats/awe-inspiring-smash-combat-performance
+performance    https://www.d20pfsrd.com/feats/performance-feats/
+charisma    https://www.d20pfsrd.com/basics-ability-scores/ability-scores#toc-charisma-cha-
+bull rush    https://www.d20pfsrd.com/gamemastering/combat#toc-bull-rush
+awesome blow    https://www.d20pfsrd.com/feats/monster-feats/awesome-blow/
+monster    https://www.d20pfsrd.com/feats/monster-feats
+improved bull rush    https://www.d20pfsrd.com/feats/combat-feats/improved-bull-rush-combat
+improved awesome blow    https://www.d20pfsrd.com/feats/combat-feats/improved-awesome-blow-combat
+awesome blow    https://www.d20pfsrd.com/feats/combat-feats/monster-feats/awesome-blow
+awesome charge    https://www.d20pfsrd.com/feats/combat-feats/awesome-charge-combat
+power attack    https://www.d20pfsrd.com/feats/combat-feats/awesome-charge-combat/power-attack-combat
+free action    https://www.d20pfsrd.com/gamemastering/combat#toc-free-actions
+awesome throw    https://www.d20pfsrd.com/feats/combat-feats/awesome-throw-combat
+rock throwing    https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#toc-rock-throwing-ex-
+hardness    https://www.d20pfsrd.com/equipment/damaging-objects#toc-hardness
+prone    https://www.d20pfsrd.com/gamemastering/conditions#toc-prone
+banner of doom    https://www.d20pfsrd.com/feats/combat-feats/banner-of-doom-combat
+tiefling    https://www.d20pfsrd.com/races/other-races/featured-races/arg-tiefling/
+pzo9423    http://www.amazon.com/gp/product/1601254237/
+barrage of styles    https://www.d20pfsrd.com/feats/combat-feats/barrage-of-styles-combat-teamwork
+human    https://www.d20pfsrd.com/races/core-races/human
+barroom brawler    https://www.d20pfsrd.com/feats/combat-feats/barroom-brawler-combat
+combat feat    https://www.d20pfsrd.com/feats/combat-feats
+bashing finish    https://www.d20pfsrd.com/feats/combat-feats/bashing-finish-combat
+shield master    https://www.d20pfsrd.com/feats/combat-feats/shield-master-combat
+pzo1115    http://www.amazon.com/gp/product/1601252463/
+battle cry    https://www.d20pfsrd.com/feats/combat-feats/battle-cry-combat
+cha    https://www.d20pfsrd.com/basics-ability-scores/ability-scores#toc-charisma-cha-
+perform    https://www.d20pfsrd.com/skills/perform
+bear’s balance    https://www.d20pfsrd.com/feats/combat-feats/bear-s-balance-combat
+iron will    https://www.d20pfsrd.com/feats/general-feats/iron-will
+rage    https://www.d20pfsrd.com/classes/core-classes/barbarian#toc-rage-ex-
+intimidate    https://www.d20pfsrd.com/skills/intimidate
+raging    https://www.d20pfsrd.com/classes/core-classes/barbarian#toc-rage-ex-
+fear    https://www.d20pfsrd.com/gamemastering/special-abilities#toc-fear
+beast hunter    https://www.d20pfsrd.com/feats/combat-feats/beast-hunter-combat
+knowledge    https://www.d20pfsrd.com/skills/knowledge
+survival    https://www.d20pfsrd.com/skills/survival
+improved beast hunter    https://www.d20pfsrd.com/feats/combat-feats/improved-beast-hunter-combat
+reflex    https://www.d20pfsrd.com/gamemastering/combat#toc-reflex
+greater beast hunter    https://www.d20pfsrd.com/feats/combat-feats/greater-beast-hunter-combat
+befuddling strike    https://www.d20pfsrd.com/feats/combat-feats/befuddling-strike-combat
+wis    https://www.d20pfsrd.com/basics-ability-scores/ability-scores#toc-wisdon-wis-
+betrayal sense    https://www.d20pfsrd.com/feats/combat-feats/betrayal-sense-combat
+wis    https://www.d20pfsrd.com/basics-ability-scores/ability-scores#toc-wisdom-wis-
+rogue    https://www.d20pfsrd.com/classes/core-classes/rogue
+betraying blow    https://www.d20pfsrd.com/feats/combat-feats/betraying-blow-combat
+solo maneuvers    https://www.d20pfsrd.com/feats/combat-feats/solo-maneuvers-combat
+nonlethal damage    https://www.d20pfsrd.com/gamemastering/combat#toc-nonlethal-damage
+bluff    https://www.d20pfsrd.com/skills/bluff
+pzo9442    http://www.amazon.com/gp/product/1601256027/
+binding throw    https://www.d20pfsrd.com/feats/combat-feats/binding-throw-combat
+improved grapple    https://www.d20pfsrd.com/feats/combat-feats/improved-grapple-combat
+improved trip    https://www.d20pfsrd.com/feats/combat-feats/improved-trip-combat
+ki throw    https://www.d20pfsrd.com/feats/combat-feats/ki-throw-combat
+grapple    https://www.d20pfsrd.com/gamemastering/combat#toc-grapple
+blade binder    https://www.d20pfsrd.com/feats/combat-feats/blade-binder-combat
+khopesh    https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/khopesh
+temple sword    https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/sword-temple
+pzo1111    http://www.amazon.com/gp/product/1601251122/
+blades above and below    https://www.d20pfsrd.com/feats/combat-feats/blades-above-and-below-combat-teamwork
+flank    https://www.d20pfsrd.com/gamemastering/combat#toc-flanking
+blazing aura    https://www.d20pfsrd.com/feats/racial-feats/blazing-aura-combat-ifrit
+ifrit    https://www.d20pfsrd.com/races/other-races/featured-races/arg-ifrit
+inner flame    https://www.d20pfsrd.com/feats/racial-feats/inner-flame-combat-ifrit
+scorching weapons    https://www.d20pfsrd.com/feats/racial-feats/scorching-weapons-combat-ifrit
+pzo1121    http://www.amazon.com/gp/product/1601253907/
+bleeding attack    https://www.d20pfsrd.com/feats/combat-feats/belier-s-bite-combat
+bleed    https://www.d20pfsrd.com/gamemastering/conditions#toc-bleed
+pzo9407    http://www.amazon.com/gp/product/1601251912/
+blind-fight    https://www.d20pfsrd.com/feats/combat-feats/blind-fight-combat
+concealment    https://www.d20pfsrd.com/gamemastering/combat#toc-concealment
+blind-fight, improved    https://www.d20pfsrd.com/feats/combat-feats/improved-blind-fight-combat
+blind-fight, greater    https://www.d20pfsrd.com/feats/combat-feats/greater-blind-fight-combat
+blinded blade style    https://www.d20pfsrd.com/feats/combat-feats/blinded-blade-style-combat-style
+blinded    https://www.d20pfsrd.com/gamemastering/conditions#toc-blinded
+scent    https://www.d20pfsrd.com/gamemastering/special-abilities#toc-scent
+scent    https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#toc-scent-ex-
+improved blind-fight    https://www.d20pfsrd.com/feats/combat-feats/improved-blind-fight-combat
+pzo9466    
+blinded competence    https://www.d20pfsrd.com/feats/combat-feats/blinded-competence-combat
+blindsense    https://www.d20pfsrd.com/gamemastering/special-abilities#toc-blindsight-and-blindsense
+greater blind-fight    https://www.d20pfsrd.com/feats/combat-feats/greater-blind-fight-combat
+blinded master    https://www.d20pfsrd.com/feats/combat-feats/blinded-master-combat
+blindsight    https://www.d20pfsrd.com/gamemastering/special-abilities#toc-blindsight-and-blindsense
+feint    https://www.d20pfsrd.com/gamemastering/combat#toc-feint
+blinding flash    https://www.d20pfsrd.com/feats/combat-feats/blinding-flash-combat
+gaze    https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#toc-gaze-su-
+pzo9421    http://www.amazon.com/gp/product/1601253869/
+blinding light    https://www.d20pfsrd.com/feats/general-feats/blinding-light
+inner light    https://www.d20pfsrd.com/feats/general-feats/inner-light
+aasimar    https://www.d20pfsrd.com/races/other-races/featured-races/arg-aasimar
+spell-like ability    https://www.d20pfsrd.com/magic#toc-spell-like-abilities-sp-
+fortitude    https://www.d20pfsrd.com/gamemastering/combat#toc-fortitude
+mind-affecting    https://www.d20pfsrd.com/magic#toc-magic-descriptor-mind-affecting
+blinding sneak attack    https://www.d20pfsrd.com/feats/combat-feats/blinding-sneak-attack-combat
+blind    https://www.d20pfsrd.com/gamemastering/conditions#toc-blinded
+blistering feint    https://www.d20pfsrd.com/feats/racial-feats/blistering-feint-combat-ifrit
+improved feint    https://www.d20pfsrd.com/feats/combat-feats/improved-feint-combat
+blood beak    https://www.d20pfsrd.com/feats/racial-feats/blood-beak-combat-tengu
+tengu    https://www.d20pfsrd.com/races/other-races/featured-races/arg-tengu
+bleeding critical    https://www.d20pfsrd.com/feats/combat-feats/bleeding-critical-combat-critical
+blooded arcane strike    https://www.d20pfsrd.com/feats/combat-feats/blooded-arcane-strike-combat
+blood feast    https://www.d20pfsrd.com/feats/combat-feats/blood-feast-combat-monster
+pzo1135    http://amzn.to/2chjpnf
+blood spurt    https://www.d20pfsrd.com/feats/combat-feats/blood-spurt-combat
+bloody assault    https://www.d20pfsrd.com/feats/combat-feats/bloody-assault-combat
+attack bonus    https://www.d20pfsrd.com/gamemastering/combat#toc-attack-bonus
+bloody vengeance    https://www.d20pfsrd.com/feats/combat-feats/bloody-vengeance-combat
+ppzo9418    http://www.amazon.com/gp/product/1601253168/
+bludgeoner    https://www.d20pfsrd.com/feats/combat-feats/bludgeoner-combat
+blundering defense    https://www.d20pfsrd.com/feats/racial-feats/blundering-defense-combat-halfling
+cautious fighter    https://www.d20pfsrd.com/feats/racial-feats/cautious-fighter-combat-halfling
+luck bonus    https://www.d20pfsrd.com/basics-ability-scores/glossary#toc-luck-bonus
+bodyguard    https://www.d20pfsrd.com/feats/combat-feats/bodyguard-combat
+body shield    https://www.d20pfsrd.com/feats/combat-feats/body-shield-combat
+cover    https://www.d20pfsrd.com/gamemastering/combat#toc-cover
+grappling    https://www.d20pfsrd.com/gamemastering/combat#toc-grapple
+branch pounce    https://www.d20pfsrd.com/feats/combat-feats/branch-pounce-combat
+climb    https://www.d20pfsrd.com/skills/climb
+stealth    https://www.d20pfsrd.com/skills/stealth
+bounding hammer    https://www.d20pfsrd.com/feats/combat-feats/bounding-hammer-combat
+hammer    https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/hammer-light
+pzo9408    http://www.amazon.com/gp/product/1601252048/
+break guard    https://www.d20pfsrd.com/feats/combat-feats/break-guard-combat
+improved disarm    https://www.d20pfsrd.com/feats/combat-feats/improved-disarm-combat
+brutal coup de grace    https://www.d20pfsrd.com/feats/combat-feats/brutal-coup-de-grace-combat
+dazzling display    https://www.d20pfsrd.com/feats/combat-feats/dazzling-display-combat
+coup de grace    https://www.d20pfsrd.com/gamemastering/combat#coup-de-grace
+brutal grappler    https://www.d20pfsrd.com/feats/combat-feats/brutal-grappler-combat-teamwork
+teamwork    https://www.d20pfsrd.com/feats/teamwork-feats
+half-orc    https://www.d20pfsrd.com/races/core-races/half-orc
+orc    https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#toc-orc
+pzo9413    http://www.amazon.com/gp/product/1601252560/
+brute style    https://www.d20pfsrd.com/feats/combat-feats/brute-style-combat-style
+improved overrun    https://www.d20pfsrd.com/feats/combat-feats/improved-overrun-combat
+vicious stomp    https://www.d20pfsrd.com/feats/combat-feats/vicious-stomp-combat
+brute stomp    https://www.d20pfsrd.com/feats/combat-feats/brute-stomp-combat
+brute assault    https://www.d20pfsrd.com/feats/combat-feats/brute-assault-combat
+tripped    https://www.d20pfsrd.com/gamemastering/combat#toc-trip
+bulette charge style    https://www.d20pfsrd.com/feats/combat-feats/bulette-charge-style-combat-style
+overrun    https://www.d20pfsrd.com/gamemastering/combat#toc-overrun
+bulette rampage    https://www.d20pfsrd.com/feats/combat-feats/bulette-rampage-combat
+bulette leap    https://www.d20pfsrd.com/feats/combat-feats/bulette-leap-combat
+armor bonus    https://www.d20pfsrd.com/basics-ability-scores/glossary#toc-armor-bonus
+bull rush, improved    https://www.d20pfsrd.com/feats/combat-feats/improved-bull-rush-combat
+bull rush, greater    https://www.d20pfsrd.com/feats/combat-feats/greater-bull-rush-combat
+bull rush strike    https://www.d20pfsrd.com/feats/combat-feats/bull-rush-strike-combat
+bullseye shot    https://www.d20pfsrd.com/feats/combat-feats/bullseye-shot-combat
+precise shot    https://www.d20pfsrd.com/feats/combat-feats/precise-shot-combat
+pzo9416    http://www.amazon.com/gp/product/1601253141/
+bullying blow    https://www.d20pfsrd.com/feats/racial-feats/bullying-blow-combat-orc
+orc    https://www.d20pfsrd.com/races/other-races/featured-races/arg-orc
+attack roll    https://www.d20pfsrd.com/gamemastering/combat#toc-attack-roll
+burn it down!    https://www.d20pfsrd.com/feats/combat-feats/burn-it-down-combat-teamwork
+but a scratch    https://www.d20pfsrd.com/feats/combat-feats/but-a-scratch-combat
+call out    https://www.d20pfsrd.com/feats/combat-feats/call-out-combat
+hit dice    https://www.d20pfsrd.com/basics-ability-scores/glossary#toc-hit-dice-hd-
+wisdom    https://www.d20pfsrd.com/basics-ability-scores/ability-scores#toc-wisdom-wis-
+sense motive    https://www.d20pfsrd.com/skills/sense-motive
+withdraw    https://www.d20pfsrd.com/gamemastering/combat#toc-withdraw
+pzo9448    http://www.amazon.com/gp/product/1601256663/
+canny tumble    https://www.d20pfsrd.com/feats/combat-feats/canny-tumble-combat
+caster’s champion    https://www.d20pfsrd.com/feats/combat-feats/caster-s-champion-combat
+pzo9293    https://www.amazon.com/gp/product/1601258437/ref=as_li_qf_sp_asin_il_tl?ie=utf8&tag=httpwwwd20pfs-20&camp=1789&creative=9325&linkcode=as2&creativeasin=1601258437&linkid=ffdc62a100080fc8f707615ac82eef7d
+cat and mouse    https://www.d20pfsrd.com/feats/combat-feats/cat-and-mouse-combat
+catch off-guard    https://www.d20pfsrd.com/feats/combat-feats/catch-off-guard-combat
+chairbreaker    https://www.d20pfsrd.com/feats/combat-feats/chairbreaker-combat
+coc    http://www.amazon.com/gp/product/1601256795/
+channel smite    https://www.d20pfsrd.com/feats/combat-feats/channel-smite-combat
+channel energy    https://www.d20pfsrd.com/classes/core-classes/cleric#toc-channel-energy-su-
+channeling force    https://www.d20pfsrd.com/feats/combat-feats/channeling-force-combat
+charge of the righteous    https://www.d20pfsrd.com/feats/combat-feats/charge-of-the-righteous-combat
+charge    https://www.d20pfsrd.com/gamemastering/combat#toc-charge
+undead    https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#toc-undead
+outsiders    https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#toc-outsider
+charge through    https://www.d20pfsrd.com/feats/combat-feats/charge-through-combat
+charging hurler    https://www.d20pfsrd.com/feats/combat-feats/charging-hurler-combat
+improved charging hurler    https://www.d20pfsrd.com/feats/combat-feats/improved-charging-hurler-combat
+choir of blades    https://www.d20pfsrd.com/feats/combat-feats/choir-of-blades-combat-teamwork
+chokehold    https://www.d20pfsrd.com/feats/combat-feats/chokehold-combat
+pin    https://www.d20pfsrd.com/gamemastering/conditions#toc-pinned
+grappled    https://www.d20pfsrd.com/gamemastering/conditions#toc-grappled
+circling mongoose    https://www.d20pfsrd.com/feats/combat-feats/circling-mongoose-combat
+spring attack    https://www.d20pfsrd.com/feats/combat-feats/spring-attack-combat
+full-round action    https://www.d20pfsrd.com/gamemastering/combat#toc-full-round-actions
+circuitous shot    https://www.d20pfsrd.com/feats/combat-feats/circuitous-shot-combat
+improved precise shot    https://www.d20pfsrd.com/feats/combat-feats/improved-precise-shot-combat
+clambering escape    https://www.d20pfsrd.com/feats/combat-feats/clambering-escape-combat
+improved reposition    https://www.d20pfsrd.com/feats/combat-feats/improved-reposition-combat
+evasion    https://www.d20pfsrd.com/classes/core-classes/rogue#toc-evasion-ex-
+claw pounce    https://www.d20pfsrd.com/feats/racial-feats/claw-pounce-combat-catfolk
+catfolk    https://www.d20pfsrd.com/races/other-races/featured-races/arg-catfolk
+nimble striker    https://www.d20pfsrd.com/feats/racial-feats/nimble-striker-combat-catfolk
+catfolk    https://www.d20pfsrd.com/races/other-races/featured-races/arg-catfolk/
+aspect of the beast    https://www.d20pfsrd.com/feats/general-feats/aspect-of-the-beast
+cleave, great    https://www.d20pfsrd.com/feats/combat-feats/great-cleave-combat
+cleaving finish    https://www.d20pfsrd.com/feats/combat-feats/cleaving-finish-combat
+improved cleaving finish    https://www.d20pfsrd.com/feats/combat-feats/improved-cleaving-finish-combat
+cleave through    https://www.d20pfsrd.com/feats/racial-feats/cleave-through-combat-dwarf
+dwarf    https://www.d20pfsrd.com/races/core-races/dwarf
+threatened    https://www.d20pfsrd.com/gamemastering/combat#toc-threatened-squares
+clinging climber    https://www.d20pfsrd.com/feats/combat-feats/clinging-climber-combat
+cloak and dagger style    https://www.d20pfsrd.com/feats/combat-feats/cloak-and-dagger-style-combat-style
+improved dirty trick    https://www.d20pfsrd.com/feats/combat-feats/improved-dirty-trick-combat
+dirty trick    https://www.d20pfsrd.com/gamemastering/combat#toc-dirty-trick
+cloak and dagger subterfuge    https://www.d20pfsrd.com/feats/combat-feats/cloak-and-dagger-subterfuge-combat
+cloak and dagger tactics    https://www.d20pfsrd.com/feats/combat-feats/cloak-and-dagger-tactics-combat
+flanking    https://www.d20pfsrd.com/gamemastering/combat#toc-flanking
+intelligence    https://www.d20pfsrd.com/basics-ability-scores/ability-scores#toc-intelligence-int-
+confused    https://www.d20pfsrd.com/gamemastering/conditions#toc-confused
+exhausted    https://www.d20pfsrd.com/gamemastering/conditions#toc-exhausted
+staggered    https://www.d20pfsrd.com/gamemastering/conditions#toc-staggered
+dirty trick’s    https://www.d20pfsrd.com/gamemastering/combat#toc-dirty-trick
+close-quarters thrower    https://www.d20pfsrd.com/feats/combat-feats/close-quarters-thrower-combat
+cloven helm    https://www.d20pfsrd.com/feats/racial-feats/cloven-helmet-combat-dwarf
+dented helm    https://www.d20pfsrd.com/feats/racial-feats/dented-helmet-combat-dwarf
+hard-headed    https://www.d20pfsrd.com/feats/racial-feats/hard-headed-combat-dwarf
+clustered shots    https://www.d20pfsrd.com/feats/combat-feats/clustered-shots-combat
+cockatrice strike    https://www.d20pfsrd.com/feats/combat-feats/cockatrice-strike-combat
+medusa’s wrath    https://www.d20pfsrd.com/feats/combat-feats/medusa-s-wrath-combat
+ac    https://www.d20pfsrd.com/gamemastering/combat#toc-armor-class
+combat medic    https://www.d20pfsrd.com/feats/general-feats/combat-medic-teamwork
+heal    https://www.d20pfsrd.com/skills/heal
+combat patrol    https://www.d20pfsrd.com/feats/combat-feats/combat-patrol-combat
+combat style master    https://www.d20pfsrd.com/feats/combat-feats/combat-style-master-combat
+compounded pain    https://www.d20pfsrd.com/feats/combat-feats/compounded-pain-combat
+mesmerist    https://www.d20pfsrd.com/alternative-rule-systems/occult-adventures/occult-classes/mesmerist
+prg:oa    http://www.amazon.com/gp/product/1601257627/
+concentrated fire    https://www.d20pfsrd.com/feats/combat-feats/concentrated-fire-combat-teamwork
+elf    https://www.d20pfsrd.com/races/core-races/elf
+concentrated splash    https://www.d20pfsrd.com/feats/combat-feats/concentrated-splash-combat
+splash    https://www.d20pfsrd.com/gamemastering/combat#toc-throw-splash-weapon
+ppc:rtt    http://www.amazon.com/gp/product/1601257058/
+consume essence    https://www.d20pfsrd.com/feats/combat-feats/consume-essence-combat-monster
+swallow whole    https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#toc-swallow-whole-ex-
+magical beast    https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#toc-magical-beast
+outsider    https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#toc-outsider
+negative levels    https://www.d20pfsrd.com/gamemastering/special-abilities#toc-energy-drain-and-negative-levels
+coordinated defense    https://www.d20pfsrd.com/feats/combat-feats/coordinated-defense-combat-teamwork
+coordinated distraction    https://www.d20pfsrd.com/feats/combat-feats/coordinated-distraction-combat-teamwork
+pzo9437    http://www.amazon.com/gp/product/1601255543/
+coordinated maneuvers    https://www.d20pfsrd.com/feats/combat-feats/coordinated-maneuvers-combat-teamwork
+coordinated shot    https://www.d20pfsrd.com/feats/combat-feats/coordinated-shot-combat-teamwork
+cornugon shield    https://www.d20pfsrd.com/feats/combat-feats/cornugon-shield-combat
+shield bonus    https://www.d20pfsrd.com/basics-ability-scores/glossary#toc-shield-bonus
+spiked chain    https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/chain-spiked
+cornugon smash    https://www.d20pfsrd.com/feats/combat-feats/cornugon-smash-combat
+cornugon stun    https://www.d20pfsrd.com/feats/combat-feats/cornugon-stun-combat
+cornugon trip    https://www.d20pfsrd.com/feats/combat-feats/cornugon-trip-combat
+counterpunch    https://www.d20pfsrd.com/feats/combat-feats/counterpunch-combat
+counter reflexes    https://www.d20pfsrd.com/feats/combat-feats/counter-reflexes-combat
+covering defense    https://www.d20pfsrd.com/feats/combat-feats/covering-defense-combat
+shield focus    https://www.d20pfsrd.com/feats/combat-feats/shield-focus-combat
+covering fire    https://www.d20pfsrd.com/feats/combat-feats/covering-fire-combat-teamwork
+aid another    https://www.d20pfsrd.com/gamemastering/combat#toc-aid-another
+crane style    https://www.d20pfsrd.com/feats/combat-feats/crane-style-combat-style
+crane wing    https://www.d20pfsrd.com/feats/combat-feats/crane-wing-combat
+crane riposte    https://www.d20pfsrd.com/feats/combat-feats/crane-riposte-combat
+critical focus    https://www.d20pfsrd.com/feats/combat-feats/critical-focus-combat
+critical    https://www.d20pfsrd.com/feats/combat-feats/critical-feats
+critical hits    https://www.d20pfsrd.com/gamemastering/combat#toc-critical-hits
+critical, banishing    https://www.d20pfsrd.com/feats/combat-feats/banishing-critical-combat-critical
+dismissal    https://www.d20pfsrd.com/magic/all-spells/d/dismissal
+banishment    https://www.d20pfsrd.com/magic/all-spells/b/banishment
+immediate action    https://www.d20pfsrd.com/gamemastering/combat#toc-immediate-actions
+will    https://www.d20pfsrd.com/gamemastering/combat#toc-will
+disruptive    https://www.d20pfsrd.com/feats/combat-feats/disruptive-combat
+spellcraft    https://www.d20pfsrd.com/skills/spellcraft
+ppc:msh    http://www.amazon.com/gp/product/1601254385/
+critical, bleeding    https://www.d20pfsrd.com/feats/combat-feats/bleeding-critical-combat-critical
+critical, blinding    https://www.d20pfsrd.com/feats/combat-feats/blinding-critical-combat-critical
+critical, censoring    https://www.d20pfsrd.com/feats/combat-feats/censoring-critical-combat-critical
+critical, crippling    https://www.d20pfsrd.com/feats/combat-feats/crippling-critical-combat
+speed    https://www.d20pfsrd.com/gamemastering/combat#toc-speed
+critical, deafening    https://www.d20pfsrd.com/feats/combat-feats/deafening-critical-combat-critical
+deafened    https://www.d20pfsrd.com/gamemastering/conditions#toc-deafened
+critical, exhausting    https://www.d20pfsrd.com/feats/combat-feats/exhausting-critical-combat-critical
+tiring critical    https://www.d20pfsrd.com/feats/combat-feats/tiring-critical-combat-critical
+critical, sickening    https://www.d20pfsrd.com/feats/combat-feats/sickening-critical-combat-critical
+sickened    https://www.d20pfsrd.com/gamemastering/conditions#toc-sickened
+critical, staggering    https://www.d20pfsrd.com/feats/combat-feats/staggering-critical-combat-critical
+critical, stunning    https://www.d20pfsrd.com/feats/combat-feats/stunning-critical-combat-critical
+staggering critical    https://www.d20pfsrd.com/feats/combat-feats/staggering-critical-combat-critical
+stunned    https://www.d20pfsrd.com/gamemastering/conditions#toc-stunned
+critical, tiring    https://www.d20pfsrd.com/feats/combat-feats/tiring-critical-combat-critical
+fatigued    https://www.d20pfsrd.com/gamemastering/conditions#toc-fatigued
+critical, improved    https://www.d20pfsrd.com/feats/combat-feats/improved-critical-combat-
+critical mastery    https://www.d20pfsrd.com/feats/combat-feats/critical-mastery-combat
+critical feats    https://www.d20pfsrd.com/feats/combat-feats/critical-feats
+critical versatility    https://www.d20pfsrd.com/feats/racial-feats/critical-versatility-combat-human
+critical feat    https://www.d20pfsrd.com/feats/combat-feats/critical-feats
+crossbow mastery    https://www.d20pfsrd.com/feats/combat-feats/crossbow-mastery-combat
+rapid reload    https://www.d20pfsrd.com/feats/combat-feats/rapid-reload-combat
+rapid shot    https://www.d20pfsrd.com/feats/combat-feats/rapid-shot-combat
+crowd of bullies    https://www.d20pfsrd.com/feats/combat-feats/crowd-of-bullies-combat-teamwork
+crowd control    https://www.d20pfsrd.com/feats/combat-feats/crowd-control-combat-teamwork
+competence bonus    https://www.d20pfsrd.com/basics-ability-scores/glossary#toc-competence-bonus
+ppc:da    http://amzn.to/2dotgkw
+crusader’s fist    https://www.d20pfsrd.com/feats/combat-feats/crusader-s-fist-combat
+lay on hands    https://www.d20pfsrd.com/classes/core-classes/paladin#toc-lay-on-hands-su-
+crushing blow    https://www.d20pfsrd.com/feats/combat-feats/crushing-blow-combat
+cudgeler style    https://www.d20pfsrd.com/feats/combat-feats/cudgeler-style-combat-style
+cudgeler sweep    https://www.d20pfsrd.com/feats/combat-feats/cudgeler-sweep-combat-style
+cudgeler takedown    https://www.d20pfsrd.com/feats/combat-feats/cudgeler-takedown-combat-style
+cunning intuition    https://www.d20pfsrd.com/feats/combat-feats/cunning-intuition-combat
+readied    https://www.d20pfsrd.com/gamemastering/combat#toc-ready
+dance of chains    https://www.d20pfsrd.com/feats/combat-feats/dance-of-chains-combat
+chain mastery    https://www.d20pfsrd.com/feats/combat-feats/chain-mastery-combat
+prg:botd    http://amzn.to/2z0pkxp
+darting viper    https://www.d20pfsrd.com/feats/combat-feats/darting-viper-combat
+dorn-dergar    https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/dorn-dergar-dwarven
+dog    http://www.amazon.com/gp/product/1601252048/
+dastardly finish    https://www.d20pfsrd.com/feats/combat-feats/dastardly-finish-combat
+cowering    https://www.d20pfsrd.com/gamemastering/conditions#toc-cowering
+dazing assault    https://www.d20pfsrd.com/feats/combat-feats/dazing-assault-combat
+daze    https://www.d20pfsrd.com/gamemastering/conditions#toc-dazed
+dazing fist    https://www.d20pfsrd.com/feats/combat-feats/dazing-fist-combat
+deadly aim    https://www.d20pfsrd.com/feats/combat-feats/deadly-aim-combat
+deadhand style    https://www.d20pfsrd.com/feats/combat-feats/deadhand-style-combat-style
+ki pool    https://www.d20pfsrd.com/classes/core-classes/monk#toc-ki-pool-su-
+shaken    https://www.d20pfsrd.com/gamemastering/conditions#toc-shaken
+deadhand initiate    https://www.d20pfsrd.com/feats/combat-feats/deadhand-initiate-combat
+deadhand master    https://www.d20pfsrd.com/feats/combat-feats/deadhand-master-combat
+deadly finish    https://www.d20pfsrd.com/feats/combat-feats/deadly-finish-combat
+fort    https://www.d20pfsrd.com/gamemastering/combat#toc-fortitude
+deadly grappler    https://www.d20pfsrd.com/feats/combat-feats/deadly-grappler-combat
+natural weapon    https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#toc-natural-attacks
+deadly stroke    https://www.d20pfsrd.com/feats/combat-feats/deadly-stroke-combat
+greater weapon focus    https://www.d20pfsrd.com/feats/combat-feats/greater-weapon-focus-combat
+shatter defenses    https://www.d20pfsrd.com/feats/combat-feats/shatter-defenses-combat
+con    https://www.d20pfsrd.com/basics-ability-scores/ability-scores#toc-constitution-con-
+death from above    https://www.d20pfsrd.com/feats/combat-feats/death-from-above-combat
+death or glory    https://www.d20pfsrd.com/feats/combat-feats/death-or-glory-combat
+death roll    https://www.d20pfsrd.com/feats/combat-feats/death-roll-combat
+reptilian    https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#toc-reptilian
+deathless initiate    https://www.d20pfsrd.com/feats/combat-feats/deathless-initiate-combat
+diehard    https://www.d20pfsrd.com/feats/general-feats/diehard
+deathless master    https://www.d20pfsrd.com/feats/combat-feats/deathless-master-combat
+ironhide    https://www.d20pfsrd.com/feats/general-feats/ironhide
+deathless zealot    https://www.d20pfsrd.com/feats/combat-feats/deathless-zealot-combat
+defensive weapon training    https://www.d20pfsrd.com/feats/combat-feats/defensive-weapon-training-combat
+deflect arrows    https://www.d20pfsrd.com/feats/combat-feats/deflect-arrows-combat
+demon hunter    https://www.d20pfsrd.com/feats/combat-feats/demon-hunter
+demons    https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon
+pzo9226    http://www.amazon.com/gp/product/1601252692/
+demonic nemesis    https://www.d20pfsrd.com/feats/combat-feats/demonic-nemesis-combat
+demon lord    https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/demon-lords
+demoralizing lash    https://www.d20pfsrd.com/feats/racial-feats/demoralizing-lash-combat-hobgoblin
+hobgoblin    https://www.d20pfsrd.com/races/other-races/featured-races/arg-hobgoblin
+whip    https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/whip
+broken    https://www.d20pfsrd.com/gamemastering/conditions#toc-broken
+dervish dance    https://www.d20pfsrd.com/feats/combat-feats/dervish-dance-combat
+scimitar    https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/scimitar
+desperate swing    https://www.d20pfsrd.com/feats/racial-feats/desperate-swing-combat-halfling
+desperate battler    https://www.d20pfsrd.com/feats/combat-feats/desperate-battler
+morale bonus    https://www.d20pfsrd.com/basics-ability-scores/glossary#toc-morale-bonus
+destroyer’s blessing    https://www.d20pfsrd.com/feats/combat-feats/destroyer-s-blessing-combat-orc-half-orc
+orc    https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/orcs/orc
+rage class feature    https://www.d20pfsrd.com/classes/core-classes/barbarian#toc-rage-ex-
+sundering    https://www.d20pfsrd.com/gamemastering/combat#toc-sunder
+destructive persuasion    https://www.d20pfsrd.com/feats/combat-feats/destructive-persuasion-combat
+devastating strike    https://www.d20pfsrd.com/feats/combat-feats/devastating-strike-combat
+vital strike    https://www.d20pfsrd.com/feats/combat-feats/vital-strike-combat-final
+improved devastating strike    https://www.d20pfsrd.com/feats/combat-feats/improved-devastating-strike-combat
+disconcerting stare    https://www.d20pfsrd.com/feats/combat-feats/disconcerting-stare-combat-stare
+disable device    https://www.d20pfsrd.com/skills/disable-device
+dimensional awareness    https://www.d20pfsrd.com/feats/combat-feats/dimensional-awareness-combat
+banishing critical    https://www.d20pfsrd.com/feats/combat-feats/banishing-critical-combat-critical
+called    https://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/called
+circumstance bonus    https://www.d20pfsrd.com/basics-ability-scores/glossary#toc-circumstance-bonus
+summon    https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#toc-summon-sp-
+ppc:msh    http://www.amazon.com/gp/product/1601257589/
+dimensional disruption    https://www.d20pfsrd.com/feats/combat-feats/dimensional-disruption-combat
+dirty trick, improved    https://www.d20pfsrd.com/feats/combat-feats/improved-dirty-trick-combat
+dirty trick, greater    https://www.d20pfsrd.com/feats/combat-feats/greater-dirty-trick-combat
+dirty trick master    https://www.d20pfsrd.com/feats/combat-feats/dirty-trick-master-combat
+greater dirty trick    https://www.d20pfsrd.com/feats/combat-feats/greater-dirty-trick-combat
+bog    http://www.amazon.com/gp/product/1601256027/
+disarm, improved    https://www.d20pfsrd.com/feats/combat-feats/improved-disarm-combat
+disarm, greater    https://www.d20pfsrd.com/feats/combat-feats/greater-disarm-combat
+disarm, directed    https://www.d20pfsrd.com/feats/combat-feats/directed-disarm-combat
+greater disarm    https://www.d20pfsrd.com/feats/combat-feats/greater-disarm-combat
+disarming strike    https://www.d20pfsrd.com/feats/combat-feats/disarming-strike-combat
+disengaging feint    https://www.d20pfsrd.com/feats/combat-feats/disengaging-feint-combat
+disengaging flourish    https://www.d20pfsrd.com/feats/combat-feats/disengaging-flourish-combat
+disengaging shot    https://www.d20pfsrd.com/feats/combat-feats/disengaging-shot-combat
+disheartening display    https://www.d20pfsrd.com/feats/combat-feats/disheartening-display-combat
+disorienting blow    https://www.d20pfsrd.com/feats/combat-feats/disorienting-blow-combat
+dispelling critical    https://www.d20pfsrd.com/feats/general-feats/dispelling-critical-critical
+dispel magic    https://www.d20pfsrd.com/magic/all-spells/d/dispel-magic
+disrupting shot    https://www.d20pfsrd.com/feats/combat-feats/disrupting-shot-combat
+disrupting fist    https://www.d20pfsrd.com/feats/combat-feats/disrupting-fist-combat
+channel positive energy    https://www.d20pfsrd.com/classes/core-classes/cleric#toc-channel-energy-su-
+distance thrower    https://www.d20pfsrd.com/feats/combat-feats/distance-thrower-combat
+distracting charge    https://www.d20pfsrd.com/feats/combat-feats/distracting-charge-combat-teamwork
+diva style    https://www.d20pfsrd.com/feats/combat-feats/diva-style-combat-style
+bard    https://www.d20pfsrd.com/classes/core-classes/bard
+bardic performance    https://www.d20pfsrd.com/classes/core-classes/bard#toc-bardic-performance
+prg:ag    http://amzn.to/2qod4qg
+diva strike    https://www.d20pfsrd.com/feats/combat-feats/diva-strike-combat
+diva advance    https://www.d20pfsrd.com/feats/combat-feats/diva-advance-combat
+divert harm    https://www.d20pfsrd.com/feats/combat-feats/divert-harm-combat
+ref    https://www.d20pfsrd.com/gamemastering/combat#toc-reflex
+divine fighting technique    https://www.d20pfsrd.com/feats/combat-feats/divine-fighting-technique-combat
+divine assault    https://www.d20pfsrd.com/feats/combat-feats/divine-assault-combat
+pure legion recruit    https://www.d20pfsrd.com/traits/regional-traits/pure-legion-recruit
+ppc:spyhb    https://www.amazon.com/gp/product/1601258445/ref=as_li_tl?ie=utf8&tag=httpwwwd20pfs-20&camp=1789&creative=9325&linkcode=as2&creativeasin=1601258445&linkid=6ed72bcd2ace3e794050b798e0c8346e
+domain strike    https://www.d20pfsrd.com/feats/combat-feats/domain-strike-combat
+dorn-dergar master    https://www.d20pfsrd.com/feats/combat-feats/dorn-dergar-master-combat
+dwarven dorn-dergar    https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/dorn-dergar-dwarven
+double slice    https://www.d20pfsrd.com/feats/combat-feats/double-slice-combat
+drag down    https://www.d20pfsrd.com/feats/combat-feats/drag-down-combat
+drag    https://www.d20pfsrd.com/gamemastering/combat#toc-drag
+drag, improved    https://www.d20pfsrd.com/feats/combat-feats/improved-drag-combat
+drag, greater    https://www.d20pfsrd.com/feats/combat-feats/greater-drag-combat
+improved drag    https://www.d20pfsrd.com/feats/combat-feats/improved-drag-combat
+dragon style    https://www.d20pfsrd.com/feats/combat-feats/dragon-style-combat
+sleep    https://www.d20pfsrd.com/magic/all-spells/s/sleep
+paralysis    https://www.d20pfsrd.com/gamemastering/special-abilities#toc-paralysis
+run    https://www.d20pfsrd.com/feats/general-feats/run
+draining strike    https://www.d20pfsrd.com/feats/combat-feats/draining-strike-combat
+fatigue    https://www.d20pfsrd.com/gamemastering/conditions#toc-fatigued
+dreadful carnage    https://www.d20pfsrd.com/feats/combat-feats/dreadful-carnage-combat
+furious focus    https://www.d20pfsrd.com/feats/combat-feats/furious-focus-combat
+drunken brawler    https://www.d20pfsrd.com/feats/combat-feats/drunken-brawler-combat
+temporary hit points    https://www.d20pfsrd.com/gamemastering/combat#toc-temporary-hit-points
+dueling cape deed    https://www.d20pfsrd.com/feats/combat-feats/dueling-cape-deed-combat-panache
+dueling mastery    https://www.d20pfsrd.com/feats/combat-feats/dueling-mastery
+quick draw    https://www.d20pfsrd.com/feats/combat-feats/quick-draw-combat
+dueling swords    https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/sword-dueling
+efreeti style    https://www.d20pfsrd.com/feats/combat-feats/efreeti-style-combat-style
+elemental fist    https://www.d20pfsrd.com/feats/combat-feats/elemental-fist-combat
+efreeti stance    https://www.d20pfsrd.com/feats/combat-feats/efreeti-stance-combat
+efreeti touch    https://www.d20pfsrd.com/feats/combat-feats/efreeti-touch-combat
+eldritch claws    https://www.d20pfsrd.com/feats/combat-feats/eldritch-claws
+natural weapons    https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#toc-natural-attacks
+elemental strike    https://www.d20pfsrd.com/feats/combat-feats/elemental-strike-combat
+oread    https://www.d20pfsrd.com/races/other-races/featured-races/arg-oread
+sylph    https://www.d20pfsrd.com/races/other-races/featured-races/arg-sylph
+undine    https://www.d20pfsrd.com/races/other-races/featured-races/arg-undine
+elephant stomp    https://www.d20pfsrd.com/feats/combat-feats/elephant-stomp-combat
+s:tlc    http://www.amazon.com/gp/product/1601252552/
+elven accuracy    https://www.d20pfsrd.com/feats/combat-feats/elven-accuracy-combat
+elusive redirection    https://www.d20pfsrd.com/feats/combat-feats/elusive-redirection-combat
+flowing monk    https://www.d20pfsrd.com/classes/core-classes/monk/archetypes/paizo-monk-archetypes/flowing-monk
+elven battle training    https://www.d20pfsrd.com/feats/racial-feats/elven-battle-training-combat-elf
+elven    https://www.d20pfsrd.com/races/core-races/elf
+empty quiver style    https://www.d20pfsrd.com/feats/combat-feats/empty-quiver-style-combat-style
+weapon focus    https://www.d20pfsrd.com/feats/combat-feats/weapon-focus-combat/
+pzo9463    http://www.amazon.com/gp/product/1601257961/
+empty quiver flexibility    https://www.d20pfsrd.com/feats/combat-feats/empty-quiver-flexibility-combat
+empty quiver style    https://www.d20pfsrd.com/feats/combat-feats/empty-quiver-style-combat-style/
+rapid shot    https://www.d20pfsrd.com/feats/combat-feats/rapid-shot-combat/
+stabbing shot    https://www.d20pfsrd.com/feats/combat-feats/stabbing-shot-combat/
+empty quiver flurry    https://www.d20pfsrd.com/feats/combat-feats/empty-quiver-flurry-combat
+empty quiver flexibility    https://www.d20pfsrd.com/feats/combat-feats/empty-quiver-flexibility-combat/
+enforcer    https://www.d20pfsrd.com/feats/combat-feats/enforcer-combat
+local    https://www.d20pfsrd.com/feats/local-feats
+engulf revulsion    https://www.d20pfsrd.com/feats/combat-feats/engulf-revulsion-combat-monster
+engulf    https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#toc-engulf-ex-
+engulf horror    https://www.d20pfsrd.com/feats/combat-feats/engulf-horror-combat-monster
+engulf revulsion    https://www.d20pfsrd.com/feats/combat-feats/engulf-revulsion-combat
+enrage opponent    https://www.d20pfsrd.com/feats/combat-feats/enrage-opponent-combat-panache
+persuasive    https://www.d20pfsrd.com/feats/general-feats/persuasive
+entreating critical    https://www.d20pfsrd.com/feats/combat-feats/entreating-critical-combat
+equipment trick    https://www.d20pfsrd.com/feats/combat-feats/equipment-trick-combat
+exceptional pull    https://www.d20pfsrd.com/feats/combat-feats/exceptional-pull-combat
+exotic weapon proficiency    https://www.d20pfsrd.com/feats/combat-feats/exotic-weapon-proficiency-combat
+explosive weapon    https://www.d20pfsrd.com/feats/combat-feats/explosive-weapon-combat
+fireball    https://www.d20pfsrd.com/magic/all-spells/f/fireball
+exsanguinate    https://www.d20pfsrd.com/feats/combat-feats/exsanguinate-combat-monster
+blood drain    https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#toc-blood-drain-ex-
+grab    https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#toc-grab-ex-
+extreme prejudice    https://www.d20pfsrd.com/feats/combat-feats/extreme-prejudice-combat
+seething hatred    https://www.d20pfsrd.com/feats/combat-feats/seething-hatred-combat
+faerie’s strike    https://www.d20pfsrd.com/feats/combat-feats/faerie-s-strike-combat
+nature magic    https://www.d20pfsrd.com/feats/general-feats/nature-magic
+druid    https://www.d20pfsrd.com/classes/core-classes/druid
+ranger    https://www.d20pfsrd.com/classes/core-classes/ranger
+false opening    https://www.d20pfsrd.com/feats/combat-feats/false-opening-combat
+close quarters thrower    https://www.d20pfsrd.com/feats/combat-feats/close-quarters-thrower-combat
+point-blank master    https://www.d20pfsrd.com/feats/combat-feats/point-blank-master-combat
+far shot    https://www.d20pfsrd.com/feats/combat-feats/far-shot-combat
+point blank shot    https://www.d20pfsrd.com/feats/combat-feats/point-blank-shot-combat
+feinting flurry    https://www.d20pfsrd.com/feats/combat-feats/feinting-flurry-combat
+feint, greater    https://www.d20pfsrd.com/feats/combat-feats/greater-feint-combat
+feinting flurry, improved    https://www.d20pfsrd.com/feats/combat-feats/improved-feinting-flurry-combat
+feint, improved    https://www.d20pfsrd.com/feats/combat-feats/improved-feint-combat
+felling escape    https://www.d20pfsrd.com/feats/combat-feats/felling-escape-combat
+felling smash    https://www.d20pfsrd.com/feats/combat-feats/felling-smash-combat
+fencing grace    https://www.d20pfsrd.com/feats/combat-feats/fencing-grace-combat
+rapier    https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/rapier
+feral combat training    https://www.d20pfsrd.com/feats/combat-feats/feral-combat-training-combat
+ferocious tenacity    https://www.d20pfsrd.com/feats/combat-feats/ferocious-tenacity-combat
+filthy weapons    https://www.d20pfsrd.com/feats/combat-feats/filthy-weapons-combat
+intelligence    https://www.d20pfsrd.com/basics-ability-scores/ability-scores/#intelligence_int
+ppc:hots    http://www.amazon.com/gp/product/1601257694/
+final embrace    https://www.d20pfsrd.com/feats/combat-feats/final-embrace-combat
+naga    https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/naga
+serpentfolk    https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/serpentfolk
+constrict    https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#toc-constrict-ex-
+final embrace horror    https://www.d20pfsrd.com/feats/combat-feats/final-embrace-horror-combat
+final embrace master    https://www.d20pfsrd.com/feats/combat-feats/final-embrace-master-combat
+firebrand    https://www.d20pfsrd.com/feats/combat-feats/firebrand-combat
+torch    https://www.d20pfsrd.com/equipment/goods-and-services#toc-torch
+light mace    https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/mace-light
+foc    http://www.amazon.com/gp/product/1601253753/
+fire hand    https://www.d20pfsrd.com/feats/racial-feats/fire-hand-combat-goblin
+flagbearer    https://www.d20pfsrd.com/feats/combat-feats/flagbearer-local
+flanking foil    https://www.d20pfsrd.com/feats/combat-feats/flanking-foil-combat
+flinging charge    https://www.d20pfsrd.com/feats/combat-feats/flinging-charge-combat
+focused discipline    https://www.d20pfsrd.com/feats/combat-feats/focused-discipline-combat
+focused shot    https://www.d20pfsrd.com/feats/combat-feats/focused-shot-combat
+following step    https://www.d20pfsrd.com/feats/combat-feats/following-step-combat
+step up    https://www.d20pfsrd.com/feats/combat-feats/step-up-combat
+fortified armor training    https://www.d20pfsrd.com/feats/combat-feats/fortified-armor-training-combat
+fox style    https://www.d20pfsrd.com/feats/combat-feats/fox-style-combat-style
+fox insight    https://www.d20pfsrd.com/feats/combat-feats/fox-insight-combat
+fox style    https://www.d20pfsrd.com/feats/combat-feats/fox-style
+fox trickery    https://www.d20pfsrd.com/feats/combat-feats/fox-trickery-combat
+fox insight    https://www.d20pfsrd.com/feats/combat-feats/fox-insight
+friendly fire maneuvers    https://www.d20pfsrd.com/feats/combat-feats/friendly-fire-maneuvers-combat-teamwork
+friendly rivalry    https://www.d20pfsrd.com/feats/combat-feats/friendly-rivalry-combat-teamwork
+frightening ambush    https://www.d20pfsrd.com/feats/combat-feats/frightening-ambush-combat
+flat-footed    https://www.d20pfsrd.com/gamemastering/conditions#toc-flat-footed
+fury’s fall    https://www.d20pfsrd.com/feats/combat-feats/fury-s-fall-combat
+fury of the tainted    https://www.d20pfsrd.com/feats/combat-feats/fury-of-the-tainted-combat
+fury of the tainted, improved    https://www.d20pfsrd.com/feats/combat-feats/improved-fury-of-the-tainted-combat
+sr    https://www.d20pfsrd.com/gamemastering/special-abilities#toc-spell-resistance
+fury’s snare    https://www.d20pfsrd.com/feats/combat-feats/fury-s-snare-combat
+gang up    https://www.d20pfsrd.com/feats/combat-feats/gang-up-combat
+gate breaker    https://www.d20pfsrd.com/feats/combat-feats/gate-breaker-combat
+improved sunder    https://www.d20pfsrd.com/feats/combat-feats/improved-sunder-combat
+ppc:both    https://www.amazon.com/gp/product/1601258437/ref=as_li_qf_sp_asin_il_tl?ie=utf8&tag=httpwwwd20pfs-20&camp=1789&creative=9325&linkcode=as2&creativeasin=1601258437&linkid=ffdc62a100080fc8f707615ac82eef7d
+ghostslayer    https://www.d20pfsrd.com/feats/combat-feats/ghostslayer-combat
+incorporeal    https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#toc-incorporeal
+enhancement bonus    https://www.d20pfsrd.com/basics-ability-scores/glossary#toc-enhancement-bonus
+ghost touch    https://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/ghost-touch
+pzo9446h    http://amzn.to/2dsr4nu
+giant killer    https://www.d20pfsrd.com/feats/racial-feats/giant-killer-combat-dwarf
+goblin cleaver    https://www.d20pfsrd.com/feats/racial-feats/goblin-cleaver-combat-dwarf
+orc hewer    https://www.d20pfsrd.com/feats/racial-feats/orc-hewer-combat-dwarf
+strike back    https://www.d20pfsrd.com/feats/combat-feats/strike-back-combat
+humanoids    https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#toc-humanoid
+giantslaying team    https://www.d20pfsrd.com/feats/combat-feats/giantslaying-team-combat-teamwork
+giant’s    https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#toc-giant
+gloom strike    https://www.d20pfsrd.com/feats/racial-feats/gloom-strike-combat-fetchling
+fetchling    https://www.d20pfsrd.com/races/other-races/featured-races/arg-fetchling
+gnome weapon focus    https://www.d20pfsrd.com/feats/racial-feats/gnome-weapon-focus-combat-gnome
+gnome    https://www.d20pfsrd.com/races/core-races/gnome
+goblinoid    https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#toc-goblinoid
+goblin gunslinger    https://www.d20pfsrd.com/feats/racial-feats/goblin-gunslinger-combat-goblin
+gore fiend    https://www.d20pfsrd.com/feats/combat-feats/gore-fiend-combat
+oog    http://www.amazon.com/gp/product/1601252560/
+gory finish    https://www.d20pfsrd.com/feats/combat-feats/gory-finish-combat
+got your back    https://www.d20pfsrd.com/feats/combat-feats/got-your-back-combat-teamwork
+flanked    https://www.d20pfsrd.com/gamemastering/combat#toc-flanking
+grabbing style    https://www.d20pfsrd.com/feats/combat-feats/grabbing-style-combat-style
+grabbing drag    https://www.d20pfsrd.com/feats/combat-feats/grabbing-drag-combat
+grabbing master    https://www.d20pfsrd.com/feats/combat-feats/grabbing-master-combat
+graceful steal    https://www.d20pfsrd.com/feats/combat-feats/graceful-steal-combat
+improved steal    https://www.d20pfsrd.com/feats/combat-feats/improved-steal-combat
+grapple, improved    https://www.d20pfsrd.com/feats/combat-feats/improved-grapple-combat
+grapple, greater    https://www.d20pfsrd.com/feats/combat-feats/greater-grapple-combat
+grasping strike    https://www.d20pfsrd.com/feats/combat-feats/grasping-strike-combat
+entangle    https://www.d20pfsrd.com/magic/all-spells/e/entangle
+great hatred    https://www.d20pfsrd.com/feats/racial-feats/great-hatred-combat-gnome
+greater hunter’s bond    https://www.d20pfsrd.com/feats/combat-feats/greater-hunter-s-bond-combat
+improved hunter’s bond    https://www.d20pfsrd.com/feats/combat-feats/improved-hunter-s-bond-combat
+greater spring attack    https://www.d20pfsrd.com/feats/combat-feats/greater-spring-attack-combat
+acrobatic steps    https://www.d20pfsrd.com/feats/general-feats/acrobatic-steps
+improved spring attack    https://www.d20pfsrd.com/feats/combat-feats/improved-spring-attack-combat
+nimble moves    https://www.d20pfsrd.com/feats/general-feats/nimble-moves
+grudge fighter    https://www.d20pfsrd.com/feats/racial-feats/grudge-fighter-combat-orc
+gruesome slaughter    https://www.d20pfsrd.com/feats/combat-feats/gruesome-slaughter-combat
+intimidating prowess    https://www.d20pfsrd.com/feats/combat-feats/intimidating-prowess-combat
+killing flourish    https://www.d20pfsrd.com/feats/combat-feats/killing-flourish-combat
+slayer    https://www.d20pfsrd.com/classes/hybrid-classes/slayer
+halfling slinger    https://www.d20pfsrd.com/feats/combat-feats/halfling-slinger-combat
+racial bonus    https://www.d20pfsrd.com/basics-ability-scores/glossary#toc-racial-bonus
+hamatula grasp    https://www.d20pfsrd.com/feats/combat-feats/hamatula-grasp-combat
+hamatula strike    https://www.d20pfsrd.com/feats/combat-feats/hamatula-strike-combat
+ch:eod    http://www.amazon.com/gp/product/1601251912/
+hamatulatsu    https://www.d20pfsrd.com/feats/combat-feats/hamatulatsu-combat
+hammer the gap    https://www.d20pfsrd.com/feats/combat-feats/hammer-the-gap-combat
+harrying partners    https://www.d20pfsrd.com/feats/combat-feats/harrying-partners-combat-teamwork
+teamwork feat    https://www.d20pfsrd.com/feats/teamwork-feats
+armor class    https://www.d20pfsrd.com/gamemastering/combat#toc-armor-class
+haunted gnome    https://www.d20pfsrd.com/feats/combat-feats/haunted-gnome-combat
+haunted fey aspect    https://www.d20pfsrd.com/magic/all-spells/h/haunted-fey-aspect
+haunted gnome assault    https://www.d20pfsrd.com/feats/combat-feats/haunted-gnome-assault-combat
+haunted gnome shroud    https://www.d20pfsrd.com/feats/combat-feats/haunted-gnome-shroud-combat
+hellcat pounce    https://www.d20pfsrd.com/feats/combat-feats/hellcat-pounce-combat
+hellcat stealth    https://www.d20pfsrd.com/feats/general-feats/hellcat-stealth
+heroic leader    https://www.d20pfsrd.com/feats/combat-feats/heroic-leader-combat
+animal companion    https://www.d20pfsrd.com/classes/core-classes/druid/animal-companions
+cohort    https://www.d20pfsrd.com/feats/general-feats/leadership
+eidolon    https://www.d20pfsrd.com/classes/base-classes/summoner#toc-eidolon
+familiar    https://www.d20pfsrd.com/bestiary/monster-listings/animals/familiar
+hex strike    https://www.d20pfsrd.com/feats/combat-feats/hex-strike-combat
+hex    https://www.d20pfsrd.com/classes/base-classes/witch#toc-hex
+hold the blade    https://www.d20pfsrd.com/feats/combat-feats/hold-the-blade-combat
+horrific gorging    https://www.d20pfsrd.com/feats/combat-feats/horrific-gorging-combat-monster
+horse master    https://www.d20pfsrd.com/feats/combat-feats/horse-master-combat
+ride    https://www.d20pfsrd.com/skills/ride
+impact critical shot    https://www.d20pfsrd.com/feats/combat-feats/impact-critical-shot-combat-critical
+impaling critical    https://www.d20pfsrd.com/feats/combat-feats/impaling-critical-combat-critical
+weapon specialization    https://www.d20pfsrd.com/feats/combat-feats/weapon-specialization-combat
+improved impaling critical    https://www.d20pfsrd.com/feats/combat-feats/improved-impaling-critical-combat-critical
+improved critical    https://www.d20pfsrd.com/feats/combat-feats/improved-critical-combat-
+favored enemy    https://www.d20pfsrd.com/classes/core-classes/ranger#toc-favored-enemy-ex-
+improved initiative    https://www.d20pfsrd.com/feats/combat-feats/improved-initiative-combat
+initiative    https://www.d20pfsrd.com/gamemastering/combat#toc-initiative
+improved low blow    https://www.d20pfsrd.com/feats/racial-feats/improved-low-blow-combat-halfling
+improved parry    https://www.d20pfsrd.com/feats/combat-feats/improved-parry-combat
+improved surprise follow-through    https://www.d20pfsrd.com/feats/racial-feats/improved-surprise-follow-through-combat-orc-half-orc
+surprise follow through    https://www.d20pfsrd.com/feats/racial-feats/surprise-follow-through-combat-orc-half-orc
+improved swap places    https://www.d20pfsrd.com/feats/combat-feats/improved-swap-places-combat-teamwork
+swap places    https://www.d20pfsrd.com/feats/combat-feats/swap-places-combat-teamwork
+improved two-weapon feint    https://www.d20pfsrd.com/feats/combat-feats/improved-two-weapon-feint-combat
+improved two-weapon fighting    https://www.d20pfsrd.com/feats/combat-feats/improved-two-weapon-fighting-combat
+improvised weapon mastery    https://www.d20pfsrd.com/feats/combat-feats/improvised-weapon-mastery-combat
+improved bravery    https://www.d20pfsrd.com/feats/combat-feats/improved-bravery-combat
+bravery    https://www.d20pfsrd.com/classes/core-classes/fighter#toc-bravery-ex-
+incite paranoia    https://www.d20pfsrd.com/feats/combat-feats/incite-paranoia-combat
+deceitful    https://www.d20pfsrd.com/feats/general-feats/deceitful
+greater feint    https://www.d20pfsrd.com/feats/combat-feats/greater-feint-combat
+indomitable mount    https://www.d20pfsrd.com/feats/combat-feats/indomitable-mount-combat-local
+mounted combat    https://www.d20pfsrd.com/feats/combat-feats/mounted-combat-combat
+handle animal    https://www.d20pfsrd.com/skills/handle-animal
+cog    http://www.amazon.com/gp/product/1601252005/
+in harm’s way    https://www.d20pfsrd.com/feats/combat-feats/in-harm-s-way-combat
+inspiring bravery    https://www.d20pfsrd.com/feats/combat-feats/inspiring-bravery-combat
+intercept charge    https://www.d20pfsrd.com/feats/combat-feats/intercept-charge-combat-teamwork
+intimidate animals    https://www.d20pfsrd.com/feats/combat-feats/intimidate-animals-combat
+greater wild empathy    https://www.d20pfsrd.com/feats/general-feats/greater-wild-empathy
+wild empathy    https://www.d20pfsrd.com/classes/core-classes/druid#toc-wild-empathy-ex-
+animals    https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#toc-animal
+jabbing style    https://www.d20pfsrd.com/feats/combat-feats/jabbing-style-combat-style
+jabbing dancer    https://www.d20pfsrd.com/feats/combat-feats/jabbing-dancer-combat
+jabbing master    https://www.d20pfsrd.com/feats/combat-feats/jabbing-master-combat
+jaguar pounce    https://www.d20pfsrd.com/feats/combat-feats/jaguar-pounce-combat
+helpless    https://www.d20pfsrd.com/gamemastering/conditions#toc-helpless
+jawbreaker    https://www.d20pfsrd.com/feats/combat-feats/jawbreaker-combat
+bonebreaker    https://www.d20pfsrd.com/feats/combat-feats/bonebreaker-combat
+neckbreaker    https://www.d20pfsrd.com/feats/combat-feats/neckbreaker-combat
+greater grapple    https://www.d20pfsrd.com/feats/combat-feats/greater-grapple-combat
+pinned    https://www.d20pfsrd.com/gamemastering/conditions#toc-pinned
+juggle load    https://www.d20pfsrd.com/feats/combat-feats/juggle-load-combat
+juke    https://www.d20pfsrd.com/feats/combat-feats/juke-combat
+sidestep    https://www.d20pfsrd.com/feats/combat-feats/sidestep-combat
+just out of reach    https://www.d20pfsrd.com/feats/combat-feats/just-out-of-reach-combat
+kick up    https://www.d20pfsrd.com/feats/combat-feats/kick-up-combat
+acrobatic    https://www.d20pfsrd.com/feats/general-feats/acrobatic
+ki diversity    https://www.d20pfsrd.com/feats/combat-feats/ki-diversity-combat-faction
+ki throw, enhanced    https://www.d20pfsrd.com/feats/combat-feats/enhanced-ki-throw-combat
+ki throw, improved    https://www.d20pfsrd.com/feats/combat-feats/improved-ki-throw-combat
+kobold ambusher    https://www.d20pfsrd.com/feats/racial-feats/kobold-ambusher-combat-kobold
+run    https://www.d20pfsrd.com/gamemastering/combat#toc-run
+kobold sniper    https://www.d20pfsrd.com/feats/racial-feats/kobold-sniper-combat-kobold
+kraken style    https://www.d20pfsrd.com/feats/combat-feats/kraken-style-combat-style
+combat    https://www.d20pfsrd.com/feats/combat-feats
+kraken throttle    https://www.d20pfsrd.com/feats/combat-feats/kraken-throttle-combat-style
+kraken wrack    https://www.d20pfsrd.com/feats/combat-feats/kraken-wrack-combat-style
+kyton style    https://www.d20pfsrd.com/feats/combat-feats/kyton-style-combat-style
+kyton shield    https://www.d20pfsrd.com/feats/combat-feats/kyton-shield-combat
+kyton cut    https://www.d20pfsrd.com/feats/combat-feats/kyton-cut-combat
+concentration    https://www.d20pfsrd.com/magic#toc-concentration
+landing roll    https://www.d20pfsrd.com/feats/combat-feats/landing-roll-combat
+large target    https://www.d20pfsrd.com/feats/combat-feats/large-target-combat
+latching horror    https://www.d20pfsrd.com/feats/combat-feats/latching-horror-combat-monster
+attach    https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#toc-attach-ex-
+lead from the back    https://www.d20pfsrd.com/feats/combat-feats/lead-from-the-back-combat-goblin
+goblin    https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/goblin
+gog    http://www.amazon.com/gp/product/1601253621/
+leapfrog    https://www.d20pfsrd.com/feats/combat-feats/leapfrog-combat-performance
+performance    https://www.d20pfsrd.com/feats/performance-feats
+fly    https://www.d20pfsrd.com/skills/fly
+leaping evasion    https://www.d20pfsrd.com/feats/combat-feats/leaping-evasion-combat
+lightning reflexes    https://www.d20pfsrd.com/feats/general-feats/lightning-reflexes
+let them come    https://www.d20pfsrd.com/feats/combat-feats/let-them-come-combat-faction
+lightning draw    https://www.d20pfsrd.com/feats/combat-feats/lightning-draw-combat-panache
+lightning stance    https://www.d20pfsrd.com/feats/combat-feats/lightning-stance-combat
+wind stance    https://www.d20pfsrd.com/feats/combat-feats/wind-stance-combat
+lob shot    https://www.d20pfsrd.com/feats/combat-feats/lob-shot-combat
+lookout    https://www.d20pfsrd.com/feats/combat-feats/lookout-combat-teamwork
+low profile    https://www.d20pfsrd.com/feats/combat-feats/low-profile-combat
+lucky strike    https://www.d20pfsrd.com/feats/racial-feats/lucky-strike-combat-halfling
+lunge    https://www.d20pfsrd.com/feats/combat-feats/lunge-combat
+mad magic    https://www.d20pfsrd.com/feats/combat-feats/mad-magic-combat
+perfect clarity    https://www.d20pfsrd.com/classes/core-classes/barbarian/rage-powers/paizo-rage-powers/perfect-clarity-ex
+rage power    https://www.d20pfsrd.com/classes/core-classes/barbarian#toc-rage-powers-ex-
+ppc:aco    http://www.amazon.com/gp/product/1601256892/
+maddening style    https://www.d20pfsrd.com/feats/combat-feats/maddening-style-combat-style
+maddening strike    https://www.d20pfsrd.com/feats/combat-feats/maddening-strike-combat
+maddening obliteration    https://www.d20pfsrd.com/feats/combat-feats/maddening-obliteration-combat
+disintegrate    https://www.d20pfsrd.com/magic/all-spells/d/disintegrate
+manifold stare    https://www.d20pfsrd.com/feats/combat-feats/manifold-stare-combat-stare
+mantis style    https://www.d20pfsrd.com/feats/combat-feats/mantis-style-combat-style
+manyshot    https://www.d20pfsrd.com/feats/combat-feats/manyshot-combat
+martial dominance    https://www.d20pfsrd.com/feats/combat-feats/martial-dominance-combat
+martial focus    https://www.d20pfsrd.com/feats/combat-feats/martial-focus-combat
+weapon group    https://www.d20pfsrd.com/classes/core-classes/fighter#toc-weapon-training-ex-
+ppc:wmh    https://www.amazon.com/pathfinder-player-companion-masters-handbook/dp/1601257961/ref=sr_1_1?s=books&ie=utf8&qid=1466200071&sr=1-1&keywords=pathfinder+weapon+master+handbook&refinements=p_n_condition-type%3a1294423011
+martial mastery    https://www.d20pfsrd.com/feats/racial-feats/martial-mastery-combat-human
+martial versatility    https://www.d20pfsrd.com/feats/racial-feats/martial-versatility-combat-human
+martial weapon proficiency    https://www.d20pfsrd.com/feats/combat-feats/martial-weapon-proficiency
+massed charge    https://www.d20pfsrd.com/feats/combat-feats/massed-charge-combat-local
+master combat performer    https://www.d20pfsrd.com/feats/combat-feats/master-combat-performer-combat
+performing combatant    https://www.d20pfsrd.com/feats/combat-feats/performing-combatant-combat
+performance feats    https://www.d20pfsrd.com/feats/performance-feats
+performance combat    https://www.d20pfsrd.com/gamemastering/other-rules/performance-combat
+measure foe    https://www.d20pfsrd.com/feats/combat-feats/measure-foe-combat
+street smarts    https://www.d20pfsrd.com/feats/general-feats/street-smarts
+pzo1334    https://www.amazon.com/pathfinder-roleplaying-game-ultimate-intrigue/dp/1601258267
+measured response    https://www.d20pfsrd.com/feats/combat-feats/measured-response-combat
+gorgon’s fist    https://www.d20pfsrd.com/feats/combat-feats/gorgon-s-fist-combat
+merciless beating    https://www.d20pfsrd.com/feats/combat-feats/merciless-beating-combat
+merciless butchery    https://www.d20pfsrd.com/feats/combat-feats/merciless-butchery-combat
+mirror move    https://www.d20pfsrd.com/feats/combat-feats/mirror-move-combat
+misdirection tactics    https://www.d20pfsrd.com/feats/combat-feats/misdirection-tactics-combat
+misdirection attack    https://www.d20pfsrd.com/feats/combat-feats/misdirection-attack-combat
+missile shield    https://www.d20pfsrd.com/feats/combat-feats/missile-shield-combat
+mobile bulwark style    https://www.d20pfsrd.com/feats/combat-feats/mobile-bulwark-style-combat-style
+tower shield proficiency    https://www.d20pfsrd.com/feats/combat-feats/tower-shield-proficiency-combat
+mobile fortress    https://www.d20pfsrd.com/feats/combat-feats/mobile-fortress-combat
+touch    https://www.d20pfsrd.com/gamemastering/combat#toc-touch-attacks
+mobile stronghold    https://www.d20pfsrd.com/feats/combat-feats/mobile-stronghold-combat
+monastic legacy    https://www.d20pfsrd.com/feats/combat-feats/monastic-legacy-combat
+still mind    https://www.d20pfsrd.com/classes/core-classes/monk#toc-still-mind-ex-
+monkey lunge    https://www.d20pfsrd.com/feats/combat-feats/monkey-lunge-combat
+slc    http://www.amazon.com/gp/product/1601252552/
+moonlight stalker    https://www.d20pfsrd.com/feats/combat-feats/moonlight-stalker-combat
+darkvision    https://www.d20pfsrd.com/gamemastering/special-abilities#toc-darkvision
+low-light vision    https://www.d20pfsrd.com/gamemastering/special-abilities#toc-low-light-vision
+moonlight stalker feint    https://www.d20pfsrd.com/feats/combat-feats/moonlight-stalker-feint-combat
+moonlight stalker master    https://www.d20pfsrd.com/feats/combat-feats/moonlight-stalker-master-combat
+mounted archery    https://www.d20pfsrd.com/feats/combat-feats/mounted-archery-combat
+mounted onslaught    https://www.d20pfsrd.com/feats/combat-feats/mounted-onslaught-combat-local
+trample    https://www.d20pfsrd.com/feats/combat-feats/trample-combat
+mounted skirmisher    https://www.d20pfsrd.com/feats/combat-feats/mounted-skirmisher-combat
+trick riding    https://www.d20pfsrd.com/feats/combat-feats/trick-riding-combat
+mounted shield    https://www.d20pfsrd.com/feats/combat-feats/mounted-shield-combat
+mud in your eye    https://www.d20pfsrd.com/feats/combat-feats/mud-in-your-eye-combat
+multiattack    https://www.d20pfsrd.com/feats/combat-feats/monster-feats/multiattack-combat
+natural attacks    https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#toc-natural-attacks
+multiweapon fighting    https://www.d20pfsrd.com/feats/combat-feats/multiweapon-fighting-combat
+my blade is yours    https://www.d20pfsrd.com/feats/combat-feats/my-blade-is-yours-combat-teamwork
+natural jouster    https://www.d20pfsrd.com/feats/combat-feats/natural-jouster-combat
+centaur    https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/centaur
+ap69    http://www.amazon.com/gp/product/1601254946/
+nature’s weapons    https://www.d20pfsrd.com/feats/combat-feats/nature-s-weapons-combat
+net adept    https://www.d20pfsrd.com/feats/combat-feats/net-adept-combat
+net    https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/net
+net and trident    https://www.d20pfsrd.com/feats/combat-feats/net-and-trident-combat
+net maneuvering    https://www.d20pfsrd.com/feats/combat-feats/net-maneuvering-combat
+net trickery    https://www.d20pfsrd.com/feats/combat-feats/net-trickery-combat
+nightmare fist    https://www.d20pfsrd.com/feats/combat-feats/nightmare-fist-combat
+darkness    https://www.d20pfsrd.com/magic/all-spells/d/darkness
+nightmare weaver    https://www.d20pfsrd.com/feats/combat-feats/nightmare-weaver-combat
+nightmare striker    https://www.d20pfsrd.com/feats/combat-feats/nightmare-striker-combat
+faerie fire    https://www.d20pfsrd.com/magic/all-spells/f/faerie-fire
+notorious vigilante    https://www.d20pfsrd.com/feats/combat-feats/notorious-vigilante-combat
+alignment    https://www.d20pfsrd.com/basics-ability-scores/glossary#toc-alignment
+open up    https://www.d20pfsrd.com/feats/combat-feats/open-up-combat-teamwork
+opening volley    https://www.d20pfsrd.com/feats/combat-feats/opening-volley-combat
+orc fury style    https://www.d20pfsrd.com/feats/combat-feats/orc-fury-style-combat-style
+bullying blow    https://www.d20pfsrd.com/feats/racial-feats/bullying-blow-combat-orc/
+orc    https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/orc
+orc weapon expertise    https://www.d20pfsrd.com/feats/racial-feats/orc-weapon-expertise-combat-orc
+ostentatious rager    https://www.d20pfsrd.com/feats/combat-feats/ostentatious-rager-combat
+osyluth guile    https://www.d20pfsrd.com/feats/combat-feats/osyluth-guile-combat
+outflank    https://www.d20pfsrd.com/feats/combat-feats/outflank-combat-teamwork
+outslug style    https://www.d20pfsrd.com/feats/combat-feats/outslug-style-combat-style
+style    https://www.d20pfsrd.com/feats/style-feats
+outslug weave    https://www.d20pfsrd.com/feats/combat-feats/outslug-weave-combat
+outslug sprint    https://www.d20pfsrd.com/feats/combat-feats/outslug-sprint-combat
+brawler’s cunning    https://www.d20pfsrd.com/classes/hybrid-classes/brawler#brawler8217s_cunning_ex
+overwatch style    https://www.d20pfsrd.com/feats/combat-feats/overwatch-style-combat-style
+precise shot    https://www.d20pfsrd.com/feats/combat-feats/overwatch-style-combat-style/precise-shot-combat
+rapid shot    https://www.d20pfsrd.com/feats/combat-feats/overwatch-style-combat-style/rapid-shot-combat
+weapon focus    https://www.d20pfsrd.com/feats/combat-feats/overwatch-style-combat-style/weapon-focus-combat
+pzo9463    https://www.amazon.com/gp/product/1601257961/
+overwatch tactician    https://www.d20pfsrd.com/feats/combat-feats/overwatch-tactician-combat
+precise shot    https://www.d20pfsrd.com/feats/combat-feats/overwatch-tactician-combat/precise-shot-combat
+rapid shot    https://www.d20pfsrd.com/feats/combat-feats/overwatch-tactician-combat/rapid-shot-combat
+weapon focus    https://www.d20pfsrd.com/feats/combat-feats/overwatch-tactician-combat/weapon-focus-combat
+overwatch vortex    https://www.d20pfsrd.com/feats/combat-feats/overwatch-vortex-combat
+precise shot    https://www.d20pfsrd.com/feats/combat-feats/overwatch-vortex-combat/precise-shot-combat
+rapid shot    https://www.d20pfsrd.com/feats/combat-feats/overwatch-vortex-combat/rapid-shot-combat
+weapon focus    https://www.d20pfsrd.com/feats/combat-feats/overwatch-vortex-combat/weapon-focus-combat
+overrun, improved    https://www.d20pfsrd.com/feats/combat-feats/improved-overrun-combat
+overrun, greater    https://www.d20pfsrd.com/feats/combat-feats/greater-overrun-combat
+owl style    https://www.d20pfsrd.com/feats/combat-feats/owl-style-combat-style
+owl swoop    https://www.d20pfsrd.com/feats/combat-feats/owl-swoop-combat
+owl style    https://www.d20pfsrd.com/feats/combat-feats/owl-style
+owl dive    https://www.d20pfsrd.com/feats/combat-feats/owl-dive-combat
+pack intimidation    https://www.d20pfsrd.com/feats/combat-feats/pack-intimidation-combat-teamwork
+paired opportunists    https://www.d20pfsrd.com/feats/combat-feats/paired-opportunists-combat-teamwork
+paralyzing strike    https://www.d20pfsrd.com/feats/combat-feats/paralyzing-strike-combat
+parting shot    https://www.d20pfsrd.com/feats/combat-feats/parting-shot-combat
+shot on the run    https://www.d20pfsrd.com/feats/combat-feats/shot-on-the-run-combat
+passing trick    https://www.d20pfsrd.com/feats/combat-feats/passing-trick-combat
+penetrating strike    https://www.d20pfsrd.com/feats/combat-feats/penetrating-strike-combat
+penetrating strike, greater    https://www.d20pfsrd.com/feats/combat-feats/greater-penetrating-strike-combat
+performance weapon mastery    https://www.d20pfsrd.com/feats/combat-feats/performance-weapon-mastery-combat
+performance feat    https://www.d20pfsrd.com/feats/performance-feats
+phalanx formation    https://www.d20pfsrd.com/feats/combat-feats/phalanx-formation-combat
+piercing grapple    https://www.d20pfsrd.com/feats/combat-feats/piercing-grapple-combat
+pinpoint targeting    https://www.d20pfsrd.com/feats/combat-feats/pinpoint-targeting-combat
+pin down    https://www.d20pfsrd.com/feats/combat-feats/pin-down-combat
+pinning knockout    https://www.d20pfsrd.com/feats/combat-feats/pinning-knockout-combat
+pinning rend    https://www.d20pfsrd.com/feats/combat-feats/pinning-rend-combat
+piranha strike    https://www.d20pfsrd.com/feats/combat-feats/piranha-strike-combat
+precise shot, improved    https://www.d20pfsrd.com/feats/combat-feats/improved-precise-shot-combat
+precise strike    https://www.d20pfsrd.com/feats/combat-feats/precise-strike-combat-teamwork
+primal strike    https://www.d20pfsrd.com/feats/combat-feats/primal-strike-combat
+pzo9486    http://amzn.to/2ynh3bh
+press to the wall    https://www.d20pfsrd.com/feats/combat-feats/press-to-the-wall-combat
+prone shooter    https://www.d20pfsrd.com/feats/combat-feats/prone-shooter-combat
+prone slinger    https://www.d20pfsrd.com/feats/combat-feats/prone-slinger-combat
+prone.    https://www.d20pfsrd.com/gamemastering/conditions#toc-prone
+pummeling style    https://www.d20pfsrd.com/feats/combat-feats/pummeling-style-combat-style
+pummeling bully    https://www.d20pfsrd.com/feats/combat-feats/pummeling-bully-combat
+free action.    https://www.d20pfsrd.com/gamemastering/combat#toc-free-actions
+pummeling charge    https://www.d20pfsrd.com/feats/combat-feats/pummeling-charge-combat
+punch through    https://www.d20pfsrd.com/feats/combat-feats/punch-through-combat-teamwork
+dr    https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#toc-damage-reduction-ex-or-su-
+punishing kick    https://www.d20pfsrd.com/feats/combat-feats/punishing-kick-combat
+pursuit of glory    https://www.d20pfsrd.com/feats/combat-feats/pursuit-of-glory-combat-teamwork
+pushing assault    https://www.d20pfsrd.com/feats/combat-feats/pushing-assault-combat
+quah bond    https://www.d20pfsrd.com/feats/general-feats/quah-bond-teamwork
+totem spirit    https://www.d20pfsrd.com/feats/general-feats/totem-spirit
+quarterstaff master    https://www.d20pfsrd.com/feats/combat-feats/quarterstaff-master-combat
+quarterstaff    https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/quarterstaff
+pzo1117    http://www.amazon.com/gp/product/1601252994/
+quick bull rush    https://www.d20pfsrd.com/feats/combat-feats/quick-bull-rush-combat
+quick dirty trick    https://www.d20pfsrd.com/feats/combat-feats/quick-dirty-trick-combat
+quick drag    https://www.d20pfsrd.com/feats/combat-feats/quick-drag-combat
+quick reposition    https://www.d20pfsrd.com/feats/combat-feats/quick-reposition-combat
+quick steal    https://www.d20pfsrd.com/feats/combat-feats/quick-steal-combat
+quick stow    https://www.d20pfsrd.com/feats/combat-feats/quick-stow-combat
+quick draw    https://www.d20pfsrd.com/feats/combat-feats/quick-draw
+attack of opportunity    https://www.d20pfsrd.com/gamemastering/combat#toc-attacks-of-opportunity
+pr:vc    http://amzn.to/2bmuizo
+quick study    https://www.d20pfsrd.com/feats/combat-feats/quick-study-combat
+quiet death    https://www.d20pfsrd.com/feats/combat-feats/quiet-death-combat
+quivering palm adept    https://www.d20pfsrd.com/feats/combat-feats/quivering-palm-adept-combat
+quivering palm    https://www.d20pfsrd.com/classes/core-classes/monk#toc-quivering-palm-su-
+quivering palm versatility    https://www.d20pfsrd.com/feats/combat-feats/quivering-palm-versatility-combat
+ranged disarm    https://www.d20pfsrd.com/feats/combat-feats/ranged-disarm-combat
+ranged feint    https://www.d20pfsrd.com/feats/combat-feats/ranged-feint-combat
+ranged trip    https://www.d20pfsrd.com/feats/combat-feats/ranged-trip-combat-targeting
+rapid grappler    https://www.d20pfsrd.com/feats/combat-feats/rapid-grappler-combat
+rat catcher    https://www.d20pfsrd.com/feats/combat-feats/rat-catcher-combat
+ray shield    https://www.d20pfsrd.com/feats/combat-feats/ray-shield-combat
+spellbreaker    https://www.d20pfsrd.com/feats/combat-feats/spellbreaker-combat
+ready for anything    https://www.d20pfsrd.com/feats/combat-feats/ready-for-anything-combat
+uncanny dodge    https://www.d20pfsrd.com/classes/core-classes/rogue#toc-uncanny-dodge-ex-
+rebounding leap    https://www.d20pfsrd.com/feats/combat-feats/rebounding-leap-combat
+rebuffing reduction    https://www.d20pfsrd.com/feats/combat-feats/rebuffing-reduction-combat
+reckless aim    https://www.d20pfsrd.com/feats/combat-feats/reckless-aim-combat
+redirect attack    https://www.d20pfsrd.com/feats/combat-feats/redirect-attack-combat
+combat maneuver defense    https://www.d20pfsrd.com/gamemastering/combat#toc-combat-maneuver-defense
+relentless shot    https://www.d20pfsrd.com/feats/combat-feats/relentless-shot-combat
+relic breaker    https://www.d20pfsrd.com/feats/combat-feats/relic-breaker-combat
+rending claws    https://www.d20pfsrd.com/feats/combat-feats/rending-claws-combat
+rending fury    https://www.d20pfsrd.com/feats/combat-feats/rending-fury-combat
+rend    https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#toc-rend-ex-
+improved rending fury    https://www.d20pfsrd.com/feats/combat-feats/improved-rending-fury-combat
+rend.    https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#toc-rend-ex-
+greater rending fury    https://www.d20pfsrd.com/feats/combat-feats/greater-rending-fury-combat
+reposition, improved    https://www.d20pfsrd.com/feats/combat-feats/improved-reposition-combat
+aoo.    https://www.d20pfsrd.com/gamemastering/combat#toc-attacks-of-opportunity
+reposition, greater    https://www.d20pfsrd.com/feats/combat-feats/greater-reposition-combat
+attacks of opportunity.    https://www.d20pfsrd.com/gamemastering/combat#toc-attacks-of-opportunity
+repositioning strike    https://www.d20pfsrd.com/feats/combat-feats/repositioning-strike-combat
+critical hit.    https://www.d20pfsrd.com/gamemastering/combat#toc-critical-hits
+reposition, tactical    https://www.d20pfsrd.com/feats/combat-feats/tactical-reposition-combat
+blade barrier    https://www.d20pfsrd.com/magic/all-spells/b/blade-barrier
+dhb    http://www.amazon.com/gp/product/1601255101/
+returning throw    https://www.d20pfsrd.com/feats/combat-feats/returning-throw-combat-teamwork
+revelation strike    https://www.d20pfsrd.com/feats/combat-feats/revelation-strike-combat
+reverse-feint    https://www.d20pfsrd.com/feats/racial-feats/reverse-feint-combat-orc
+toughness    https://www.d20pfsrd.com/feats/general-feats/toughness
+rhino charge    https://www.d20pfsrd.com/feats/combat-feats/rhino-charge-combat
+ready    https://www.d20pfsrd.com/gamemastering/combat#toc-ready
+pc:stlc    http://www.amazon.com/gp/product/1601252552/
+ride-by attack    https://www.d20pfsrd.com/feats/combat-feats/ride-by-attack-combat
+riptide attack    https://www.d20pfsrd.com/feats/combat-feats/riptide-attack-combat
+risky striker    https://www.d20pfsrd.com/feats/racial-feats/risky-striker-combat-halfling
+river raider    https://www.d20pfsrd.com/feats/combat-feats/river-raider-combat
+riving strike    https://www.d20pfsrd.com/feats/combat-feats/riving-strike-combat
+spell-like abilities.    https://www.d20pfsrd.com/magic#toc-spell-like-abilities-sp-
+roll with it    https://www.d20pfsrd.com/feats/combat-feats/roll-with-it-combat-goblin
+rubble skirmisher    https://www.d20pfsrd.com/feats/combat-feats/rubble-skirmisher-combat
+runic charge    https://www.d20pfsrd.com/feats/combat-feats/runic-charge-combat
+ruthless opportunist    https://www.d20pfsrd.com/feats/combat-feats/ruthless-opportunist-combat-teamwork
+sabotaging sunder    https://www.d20pfsrd.com/feats/combat-feats/sabotaging-sunder-combat
+saddle shrieker    https://www.d20pfsrd.com/feats/combat-feats/saddle-shrieker-combat-goblin
+sap adept    https://www.d20pfsrd.com/feats/combat-feats/sap-adept-combat
+nonlethal    https://www.d20pfsrd.com/gamemastering/combat#toc-nonlethal-damage
+sap master    https://www.d20pfsrd.com/feats/combat-feats/sap-master-combat
+nonlethal damage.    https://www.d20pfsrd.com/gamemastering/combat#toc-nonlethal-damage
+saving shield    https://www.d20pfsrd.com/feats/combat-feats/saving-shield-combat
+shield proficiency    https://www.d20pfsrd.com/feats/combat-feats/shield-proficiency
+school strike    https://www.d20pfsrd.com/feats/combat-feats/school-strike-combat
+wizard    https://www.d20pfsrd.com/classes/core-classes/wizard
+flaming    https://www.d20pfsrd.com/magic-items/magic-weapons#toc-flaming
+scorpion style    https://www.d20pfsrd.com/feats/combat-feats/scorpion-style-combat
+stagger    https://www.d20pfsrd.com/gamemastering/conditions#toc-staggered
+speed    https://www.d20pfsrd.com/magic-items/magic-weapons#toc-speed
+sea hunter    https://www.d20pfsrd.com/feats/racial-feats/sea-hunter-combat-merfolk
+merfolk    https://www.d20pfsrd.com/races/other-races/uncommon-races/arg-merfolk
+table: combat adjustments underwater    https://www.d20pfsrd.com/feats/combat-feats/-combat-adjustments-underwate
+freedom of movement    https://www.d20pfsrd.com/magic/all-spells/f/freedom-of-movement
+second chance    https://www.d20pfsrd.com/feats/combat-feats/second-chance-combat
+second chance, improved    https://www.d20pfsrd.com/feats/combat-feats/improved-second-chance-combat
+second wind    https://www.d20pfsrd.com/feats/combat-feats/second-wind-combat-performance
+seize advantage    https://www.d20pfsrd.com/feats/combat-feats/seize-advantage-combat
+serpent lash    https://www.d20pfsrd.com/feats/combat-feats/serpent-lash-combat
+whip.    https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/whip
+pcs:rg    https://www.amazon.com/pathfinder-campaign-setting-rival-guide/dp/1601253028/ref=sr_1_1?ie=utf8&qid=1471709414&sr=8-1&keywords=pathfinder+rival+guide
+shadow strike    https://www.d20pfsrd.com/feats/combat-feats/shadow-strike-combat
+concealment.    https://www.d20pfsrd.com/gamemastering/combat#toc-concealment
+shadows of fear    https://www.d20pfsrd.com/feats/combat-feats/shadows-of-fear-combat
+sharpclaw    https://www.d20pfsrd.com/feats/racial-feats/sharpclaw-combat-ratfolk
+ratfolk    https://www.d20pfsrd.com/races/other-races/featured-races/arg-ratfolk
+flat-footed.    https://www.d20pfsrd.com/gamemastering/conditions#toc-flat-footed
+shatterspell    https://www.d20pfsrd.com/feats/racial-feats/shatterspell-combat-dwarf
+shield bash, improved    https://www.d20pfsrd.com/feats/combat-feats/improved-shield-bash-combat
+improved shield focus    https://www.d20pfsrd.com/feats/combat-feats/improved-shield-focus-combat
+shield focus, greater    https://www.d20pfsrd.com/feats/combat-feats/greater-shield-focus-combat
+shield slam    https://www.d20pfsrd.com/feats/combat-feats/shield-slam-combat
+shield of swings    https://www.d20pfsrd.com/feats/combat-feats/shield-of-swings-combat
+shield bonus.    https://www.d20pfsrd.com/basics-ability-scores/glossary#toc-shield-bonus
+shield specialization    https://www.d20pfsrd.com/feats/combat-feats/shield-specialization-combat
+criticals    https://www.d20pfsrd.com/gamemastering/combat#toc-critical-hits
+shield specialization, greater    https://www.d20pfsrd.com/feats/combat-feats/greater-shield-specialization-combat
+improved shield bash    https://www.d20pfsrd.com/feats/combat-feats/improved-shield-bash-combat
+shield wall    https://www.d20pfsrd.com/feats/combat-feats/shield-wall-combat-teamwork
+shield gauntlet style    https://www.d20pfsrd.com/feats/combat-feats/shield-gauntlet-style-combat-style
+gauntlet    https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/gauntlet
+snatch arrows    https://www.d20pfsrd.com/feats/combat-feats/snatch-arrows-combat
+shielded gauntlet attack    https://www.d20pfsrd.com/feats/combat-feats/shielded-gauntlet-attack-combat
+warpriest    https://www.d20pfsrd.com/classes/hybrid-classes/warpriest
+shielded gauntlet master    https://www.d20pfsrd.com/feats/combat-feats/shielded-gauntlet-master-combat
+gauntlet’s    https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/gauntlet
+cushioning shield (combat, shield mastery)    https://www.d20pfsrd.com/feats/combat-feats/cushioning-shield-shield-mastery
+defended movement (combat, shield mastery)    https://www.d20pfsrd.com/feats/combat-feats/defended-movement-shield-mastery
+feint defender (combat, shield mastery)    https://www.d20pfsrd.com/feats/combat-feats/feint-defender-shield-mastery
+greater ray shield (combat, shield mastery)    https://www.d20pfsrd.com/feats/combat-feats/greater-ray-shield-shield-mastery
+guarded charge (combat, shield mastery)    https://www.d20pfsrd.com/feats/combat-feats/guarded-charge-shield-mastery
+improved shield focus (combat)    https://www.d20pfsrd.com/feats/combat-feats/improved-shield-focus-combat
+shield brace (combat, shield mastery)    https://www.d20pfsrd.com/feats/combat-feats/shield-brace-shield-mastery
+shielded mage (combat, shield mastery)    https://www.d20pfsrd.com/feats/combat-feats/shielded-mage-shield-mastery
+components    https://www.d20pfsrd.com/magic#toc-components
+shielded stand (combat, shield mastery)    https://www.d20pfsrd.com/feats/combat-feats/shielded-stand-shield-mastery
+shield material expertise (combat, shield mastery)    https://www.d20pfsrd.com/feats/combat-feats/shield-material-expertise-shield-mastery
+shield material mastery (combat, shield mastery)    https://www.d20pfsrd.com/feats/combat-feats/shield-material-mastery-shield-mastery
+shield material expertise    https://www.d20pfsrd.com/feats/combat-feats/shield-material-expertise-shield-mastery
+shikigami style    https://www.d20pfsrd.com/feats/combat-feats/shikigami-style-combat-style
+ppc:mah    https://amzn.to/2qsjq66
+shikigami mimicry    https://www.d20pfsrd.com/feats/combat-feats/shikigami-mimicry-combat
+shikigami manipulation    https://www.d20pfsrd.com/feats/combat-feats/shikigami-manipulation-combat
+use magic device    https://www.d20pfsrd.com/skills/use-magic-device
+sprightly armor (combat, armor mastery)    https://www.d20pfsrd.com/feats/combat-feats/sprightly-armor-armor-mastery
+stumbling bash (combat, shield mastery)    https://www.d20pfsrd.com/feats/combat-feats/stumbling-bash-shield-mastery
+toppling bash (combat, shield mastery)    https://www.d20pfsrd.com/feats/combat-feats/toppling-bash-shield-mastery
+stumbling bash    https://www.d20pfsrd.com/feats/combat-feats/stumbling-bash-shield-mastery
+tower shield specialist (combat, shield mastery)    https://www.d20pfsrd.com/feats/combat-feats/tower-shield-specialist-shield-mastery
+unhindering shield (combat, shield mastery)    https://www.d20pfsrd.com/feats/combat-feats/unhindering-shield-shield-mastery
+swashbuckler’s    https://www.d20pfsrd.com/classes/hybrid-classes/swashbuckler
+shrapnel strike    https://www.d20pfsrd.com/feats/combat-feats/shrapnel-strike-combat
+shrewd tactician    https://www.d20pfsrd.com/feats/combat-feats/shrewd-tactician-combat
+shrug on    https://www.d20pfsrd.com/feats/combat-feats/shrug-on-combat
+sidestep, improved    https://www.d20pfsrd.com/feats/combat-feats/improved-sidestep-combat
+siege commander    https://www.d20pfsrd.com/feats/combat-feats/siege-commander-combat
+profession    https://www.d20pfsrd.com/skills/profession
+siege engineer    https://www.d20pfsrd.com/feats/combat-feats/siege-engineer-combat
+master siege engineer    https://www.d20pfsrd.com/feats/combat-feats/master-siege-engineer-combat
+siege gunner    https://www.d20pfsrd.com/feats/combat-feats/siege-gunner-combat
+signature strike style    https://www.d20pfsrd.com/feats/combat-feats/signature-strike-style-combat
+signature strike taunt    https://www.d20pfsrd.com/feats/combat-feats/signature-strike-taunt-combat
+signature strike style    https://www.d20pfsrd.com/signature-strike-style-combat-style/
+signature strike triumph    https://www.d20pfsrd.com/feats/combat-feats/signature-strike-triumph-combat
+signature strike taunt    https://www.d20pfsrd.com/signature-strike-taunt-combat/
+silent kill    https://www.d20pfsrd.com/feats/combat-feats/silent-kill-combat
+talent    https://www.d20pfsrd.com/classes/core-classes/rogue#toc-rogue-talents
+ninja    https://www.d20pfsrd.com/classes/alternate-classes/ninja
+shadows    https://www.d20pfsrd.com/bestiary/monster-listings/undead/shadow
+simple weapon proficiency    https://www.d20pfsrd.com/feats/combat-feats/simple-weapon-proficiency
+slashing grace    https://www.d20pfsrd.com/feats/combat-feats/slashing-grace-combat
+slayer’s feint    https://www.d20pfsrd.com/feats/combat-feats/slayer-s-feint-combat
+sleeper hold    https://www.d20pfsrd.com/feats/combat-feats/sleeper-hold-combat
+constitution    https://www.d20pfsrd.com/basics-ability-scores/ability-scores#toc-constitution-con-
+sliding axe throw    https://www.d20pfsrd.com/feats/combat-feats/sliding-axe-throw-combat
+throwing axes    https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/axe-throwing
+sliding dash    https://www.d20pfsrd.com/feats/combat-feats/sliding-dash-combat
+sling flail    https://www.d20pfsrd.com/feats/combat-feats/sling-flail-combat
+smashing style    https://www.d20pfsrd.com/feats/combat-feats/smashing-style-combat-style
+smashing crush    https://www.d20pfsrd.com/feats/combat-feats/smashing-crush-combat
+smashing dent    https://www.d20pfsrd.com/feats/combat-feats/smashing-dent-combat
+smiting reversal    https://www.d20pfsrd.com/feats/combat-feats/smiting-reversal-combat
+ppc:aoe    http://www.amazon.com/gp/product/1601258011/
+snap shot    https://www.d20pfsrd.com/feats/combat-feats/snap-shot-combat
+improved snap shot    https://www.d20pfsrd.com/feats/combat-feats/improved-snap-shot-combat
+greater snap shot    https://www.d20pfsrd.com/feats/combat-feats/greater-snap-shot-combat
+social bravery    https://www.d20pfsrd.com/feats/combat-feats/social-bravery-combat
+sorcerous strike    https://www.d20pfsrd.com/feats/combat-feats/sorcerous-strike-combat
+sorcerer bloodline    https://www.d20pfsrd.com/classes/core-classes/sorcerer#toc-bloodline
+bloodline    https://www.d20pfsrd.com/classes/core-classes/sorcerer#toc-bloodline
+soulblade    https://www.d20pfsrd.com/feats/combat-feats/soulblade-combat
+haunt    https://www.d20pfsrd.com/gamemastering/haunts
+soulwrecking strike    https://www.d20pfsrd.com/feats/combat-feats/soulwrecking-strike-combat
+damage reduction    https://www.d20pfsrd.com/classes/core-classes/barbarian#toc-damage-reduction-ex-
+spear dancing style    https://www.d20pfsrd.com/feats/combat-feats/spear-dancing-style-combat-style
+spear dancing spiral    https://www.d20pfsrd.com/feats/combat-feats/spear-dancing-spiral-combat
+spear dancing reach    https://www.d20pfsrd.com/feats/combat-feats/spear-dancing-reach-combat
+spiked destroyer    https://www.d20pfsrd.com/feats/combat-feats/spiked-destroyer-combat
+spiked armor    https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/spiked-armor
+spinning throw    https://www.d20pfsrd.com/feats/combat-feats/spinning-throw-combat
+spirited charge    https://www.d20pfsrd.com/feats/combat-feats/spirited-charge-combat
+spit venom    https://www.d20pfsrd.com/feats/racial-feats/spit-venom-combat-nagaji
+nagaji    https://www.d20pfsrd.com/races/other-races/uncommon-races/arg-nagaji
+spring-heeled style    https://www.d20pfsrd.com/feats/combat-feats/spring-heeled-style-combat-style
+spring-heeled reaping    https://www.d20pfsrd.com/feats/combat-feats/spring-heeled-reaping-combat
+spring-heeled sprint    https://www.d20pfsrd.com/feats/combat-feats/spring-heeled-sprint-combat
+stabbing shot    https://www.d20pfsrd.com/feats/combat-feats/stabbing-shot-combat
+stage combatant    https://www.d20pfsrd.com/feats/combat-feats/stage-combatant-combat
+staggering fist    https://www.d20pfsrd.com/feats/combat-feats/staggering-fist-combat
+stance of the xorn    https://www.d20pfsrd.com/feats/combat-feats/stance-of-the-xorn-combat
+stand still    https://www.d20pfsrd.com/feats/combat-feats/stand-still-combat
+starry grace    https://www.d20pfsrd.com/feats/combat-feats/starry-grace-combat
+starknife    https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/starknife
+startling getaway    https://www.d20pfsrd.com/feats/combat-feats/startling-getaway-combat
+startoss style    https://www.d20pfsrd.com/feats/combat-feats/startoss-style-combat-style
+point-blank shot    https://www.d20pfsrd.com/feats/combat-feats/point-blank-shot-combat/
+startoss comet    https://www.d20pfsrd.com/feats/combat-feats/startoss-comet-combat
+point-blank shot    https://www.d20pfsrd.com/feats/combat-feats/startoss-comet-combat/point-blank-shot-combat
+weapon focus    https://www.d20pfsrd.com/feats/combat-feats/startoss-comet-combat/weapon-focus-combat
+startoss shower    https://www.d20pfsrd.com/feats/combat-feats/startoss-shower-combat
+point-blank shot    https://www.d20pfsrd.com/feats/combat-feats/startoss-shower-combat/point-blank-shot-combat
+startoss comet    https://www.d20pfsrd.com/feats/combat-feats/startoss-comet-combat/
+weapon focus    https://www.d20pfsrd.com/feats/combat-feats/startoss-shower-combat/weapon-focus-combat
+steadfast slayer    https://www.d20pfsrd.com/feats/combat-feats/steadfast-slayer-combat
+steady engagement    https://www.d20pfsrd.com/feats/combat-feats/steady-engagement-combat
+steal, improved    https://www.d20pfsrd.com/feats/combat-feats/improved-steal-combat
+steal, greater    https://www.d20pfsrd.com/feats/combat-feats/greater-steal-combat
+5-foot step    https://www.d20pfsrd.com/gamemastering/combat#toc-take-5-foot-step
+step up and strike    https://www.d20pfsrd.com/feats/combat-feats/step-up-and-strike-combat
+stick together    https://www.d20pfsrd.com/feats/combat-feats/stick-together-combat-teamwork
+stock-striker style    https://www.d20pfsrd.com/feats/combat-feats/stock-striker-style-combat
+stock-striker sweep    https://www.d20pfsrd.com/feats/combat-feats/stock-striker-sweep-combat
+stock-striker style    https://www.d20pfsrd.com/stock-striker-style-combat-style/
+stock-striker takedown    https://www.d20pfsrd.com/feats/combat-feats/stock-striker-takedown-combat
+stock-striker sweep    https://www.d20pfsrd.com/stock-striker-sweep-combat/
+strangler    https://www.d20pfsrd.com/feats/combat-feats/strangler-combat
+sneak damage    https://www.d20pfsrd.com/classes/core-classes/rogue#toc-sneak-attack
+street style    https://www.d20pfsrd.com/feats/combat-feats/street-style-combat-style
+street sweep    https://www.d20pfsrd.com/feats/combat-feats/street-sweep-combat
+street carnage    https://www.d20pfsrd.com/feats/combat-feats/street-carnage-combat
+structural strike    https://www.d20pfsrd.com/feats/combat-feats/structural-strike-combat-panache
+stunning assault    https://www.d20pfsrd.com/feats/combat-feats/stunning-assault-combat
+stun    https://www.d20pfsrd.com/gamemastering/conditions#toc-stunned
+stunning fist adept    https://www.d20pfsrd.com/feats/combat-feats/stunning-fist-adept-combat
+stunning pin    https://www.d20pfsrd.com/feats/combat-feats/stunning-pin-combat
+stunning irruption    https://www.d20pfsrd.com/feats/combat-feats/stunning-irruption-combat
+sunder, improved    https://www.d20pfsrd.com/feats/combat-feats/improved-sunder-combat
+sunder, greater    https://www.d20pfsrd.com/feats/combat-feats/greater-sunder-combat
+sunder blessing    https://www.d20pfsrd.com/feats/combat-feats/sunder-blessing-combat
+sundering strike    https://www.d20pfsrd.com/feats/combat-feats/sundering-strike-combat
+suppressive fire    https://www.d20pfsrd.com/feats/combat-feats/suppressive-fire-combat-teamwork
+surprise follow-through    https://www.d20pfsrd.com/feats/racial-feats/surprise-follow-through-combat-orc-half-orc
+surprise strike    https://www.d20pfsrd.com/feats/racial-feats/surprise-strike-combat-halfling
+sweeping dodge    https://www.d20pfsrd.com/feats/combat-feats/sweeping-dodge-combat
+swift iron style    https://www.d20pfsrd.com/feats/combat-feats/swift-iron-style-combat-style
+swift refuge    https://www.d20pfsrd.com/feats/combat-feats/swift-refuge-combat
+dice    https://www.d20pfsrd.com/equipment/goods-and-services/toys-games-puzzles#toc-dice
+swift sprint    https://www.d20pfsrd.com/feats/combat-feats/swift-sprint-combat
+sword and pistol    https://www.d20pfsrd.com/feats/combat-feats/sword-and-pistol-combat
+swordplay style    https://www.d20pfsrd.com/feats/combat-feats/swordplay-style-combat-style
+swordplay upset    https://www.d20pfsrd.com/feats/combat-feats/swordplay-upset-combat
+swordplay deflection    https://www.d20pfsrd.com/feats/combat-feats/swordplay-deflection-combat
+sympathetic rage    https://www.d20pfsrd.com/feats/racial-feats/sympathetic-rage-combat-orc-half-orc
+tactical reposition    https://www.d20pfsrd.com/feats/combat-feats/tactical-reposition-combat
+tail terror    https://www.d20pfsrd.com/feats/racial-feats/tail-terror-combat-kobold
+natural attack    https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#toc-natural-attacks
+duelist    https://www.d20pfsrd.com/feats/combat-feats/taldan-duelist-combat
+falcata    https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/falcata
+buckler    https://www.d20pfsrd.com/equipment/armor/buckler
+tangle feet    https://www.d20pfsrd.com/feats/racial-feats/tangle-feet-combat-goblin
+underfoot    https://www.d20pfsrd.com/feats/combat-feats/underfoot-combat
+tantrum    https://www.d20pfsrd.com/feats/combat-feats/tantrum-combat
+gnog    http://www.amazon.com/gp/product/1601252234/
+taskmaster    https://www.d20pfsrd.com/feats/racial-feats/taskmaster-combat-hobgoblin
+team up    https://www.d20pfsrd.com/feats/combat-feats/team-up-combat
+gang-up    https://www.d20pfsrd.com/feats/combat-feats/gang-up-combat
+technology adept    https://www.d20pfsrd.com/feats/combat-feats/technology-adept-combat
+pcs:tg    http://www.amazon.com/gp/product/1601256728/
+teleport tactician    https://www.d20pfsrd.com/feats/combat-feats/teleport-tactician-combat
+terrorizing display    https://www.d20pfsrd.com/feats/racial-feats/terrorizing-display-combat-hobgoblin
+thrill of the hunt    https://www.d20pfsrd.com/feats/combat-feats/thrill-of-the-hunt-combat
+throat slicer    https://www.d20pfsrd.com/feats/combat-feats/throat-slicer-combat
+throw back arrows    https://www.d20pfsrd.com/feats/combat-feats/throw-back-arrows-combat
+firearm    https://www.d20pfsrd.com/equipment/firearms
+thunder and fang    https://www.d20pfsrd.com/feats/combat-feats/thunder-and-fang-combat
+earth breaker    https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/earth-breaker
+klar    https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/klar
+vbl    http://www.amazon.com/gp/product/b009162r9g/
+touch of serenity    https://www.d20pfsrd.com/feats/combat-feats/touch-of-serenity-combat
+unarmed strike, improved    https://www.d20pfsrd.com/feats/combat-feats/improved-unarmed-strike-combat
+tower shield    https://www.d20pfsrd.com/equipment/armor/shield-tower
+traditional weapons    https://www.d20pfsrd.com/feats/combat-feats/traditional-weapons-combat
+technological weapon    https://www.d20pfsrd.com/equipment/weapons/technological-weapons
+tree hanger    https://www.d20pfsrd.com/feats/racial-feats/tree-hanger-combat-vanara
+vanara    https://www.d20pfsrd.com/races/other-races/uncommon-races/arg-vanaras
+trick shooter    https://www.d20pfsrd.com/feats/combat-feats/trick-shooter-combat
+trip, improved    https://www.d20pfsrd.com/feats/combat-feats/improved-trip-combat
+trip, greater    https://www.d20pfsrd.com/feats/combat-feats/greater-trip-combat
+tripping staff    https://www.d20pfsrd.com/feats/combat-feats/tripping-staff-combat
+tripping strike    https://www.d20pfsrd.com/feats/combat-feats/tripping-strike-combat
+tripping twirl    https://www.d20pfsrd.com/feats/combat-feats/tripping-twirl-combat
+twin thunders    https://www.d20pfsrd.com/feats/combat-feats/twin-thunders-combat
+giants    https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants
+twin thunders flurry    https://www.d20pfsrd.com/feats/combat-feats/twin-thunders-flurry-combat
+twin thunders master    https://www.d20pfsrd.com/feats/combat-feats/twin-thunders-master-combat
+twinned feint    https://www.d20pfsrd.com/feats/combat-feats/twinned-feint-combat
+two-handed thrower    https://www.d20pfsrd.com/feats/combat-feats/two-handed-thrower-combat
+two-weapon defense    https://www.d20pfsrd.com/feats/combat-feats/two-weapon-defense-combat
+two-weapon feint    https://www.d20pfsrd.com/feats/combat-feats/two-weapon-feint-combat
+two-weapon fighting, improved    https://www.d20pfsrd.com/feats/combat-feats/improved-two-weapon-fighting-combat
+two-weapon fighting, greater    https://www.d20pfsrd.com/feats/combat-feats/greater-two-weapon-fighting-combat
+two-weapon grace    https://www.d20pfsrd.com/feats/combat-feats/two-weapon-grace-combat
+two-weapon rend    https://www.d20pfsrd.com/feats/combat-feats/two-weapon-rend-combat
+prg:vc    http://amzn.to/2bmuizo
+uncanny defense    https://www.d20pfsrd.com/feats/racial-feats/uncanny-defense-combat-halfling
+under and over    https://www.d20pfsrd.com/feats/combat-feats/under-and-over-combat
+undersized mount    https://www.d20pfsrd.com/feats/combat-feats/undersized-mount-combat
+unseat    https://www.d20pfsrd.com/feats/combat-feats/unseat-combat
+unyielding ferocity    https://www.d20pfsrd.com/feats/combat-feats/unyielding-ferocity-combat
+upsetting shield style    https://www.d20pfsrd.com/feats/combat-feats/upsetting-shield-style-combat-style
+upsetting strike    https://www.d20pfsrd.com/feats/combat-feats/upsetting-strike-combat
+upsetting vengeance    https://www.d20pfsrd.com/feats/combat-feats/upsetting-vengeance-combat
+vanguard style    https://www.d20pfsrd.com/feats/combat-feats/vanguard-style-combat-style
+vanguard hustle    https://www.d20pfsrd.com/feats/combat-feats/vanguard-hustle-combat
+vanguard ward    https://www.d20pfsrd.com/feats/combat-feats/vanguard-ward-combat
+vast hatred    https://www.d20pfsrd.com/feats/racial-feats/vast-hatred-combat-gnome
+favored enemies    https://www.d20pfsrd.com/classes/core-classes/ranger#toc-favored-enemy-ex-
+vigilant charger    https://www.d20pfsrd.com/feats/combat-feats/vigilant-charger-combat
+violent display    https://www.d20pfsrd.com/feats/combat-feats/violent-display-combat
+ppc:botm    http://www.amazon.com/gp/product/1601255780/
+vital strike, improved    https://www.d20pfsrd.com/feats/combat-feats/improved-vital-strike-combat
+vital strike, greater    https://www.d20pfsrd.com/feats/combat-feats/greater-vital-strike-combat
+volley fire    https://www.d20pfsrd.com/feats/combat-feats/volley-fire-combat
+vulpine pounce    https://www.d20pfsrd.com/feats/combat-feats/vulpine-pounce-combat
+kitsune    https://www.d20pfsrd.com/races/other-races/uncommon-races/arg-kitsune
+swift kitsune shapechanger    https://www.d20pfsrd.com/feats/general-feats/swift-kitsune-shapechanger
+warning shot    https://www.d20pfsrd.com/feats/combat-feats/warning-shot-combat
+wave strike    https://www.d20pfsrd.com/feats/combat-feats/wave-strike-combat
+weapon expertise    https://www.d20pfsrd.com/classes/alternate-classes/samurai#toc-weapon-expertise-ex-
+weapon focus, greater    https://www.d20pfsrd.com/feats/combat-feats/greater-weapon-focus-combat
+weapon of the chosen    https://www.d20pfsrd.com/feats/combat-feats/weapon-of-the-chosen-combat
+improved weapon of the chosen    https://www.d20pfsrd.com/feats/combat-feats/improved-weapon-of-the-chosen-combat
+greater weapon of the chosen    https://www.d20pfsrd.com/feats/combat-feats/greater-weapon-of-the-chosen-combat
+weapon specialization, greater    https://www.d20pfsrd.com/feats/combat-feats/greater-weapon-specialization-combat
+weapon versatility    https://www.d20pfsrd.com/feats/combat-feats/weapon-versatility-combat
+ppc:ush    http://www.amazon.com/gp/product/1601256043/
+weathered warrior    https://www.d20pfsrd.com/feats/combat-feats/weathered-warrior-combat
+wheeling charge    https://www.d20pfsrd.com/feats/combat-feats/wheeling-charge-combat-local
+whip mastery    https://www.d20pfsrd.com/feats/combat-feats/whip-mastery-combat
+improved whip mastery    https://www.d20pfsrd.com/feats/combat-feats/improved-whip-mastery-combat
+greater whip mastery    https://www.d20pfsrd.com/feats/combat-feats/greater-whip-mastery-combat
+whip slinger    https://www.d20pfsrd.com/feats/combat-feats/whip-slinger-combat
+whirlwind attack    https://www.d20pfsrd.com/feats/combat-feats/whirlwind-attack-combat
+wilding strike    https://www.d20pfsrd.com/feats/combat-feats/wilding-strike-combat
+wilding    https://www.d20pfsrd.com/feats/general-feats/wilding
+improved wilding strike    https://www.d20pfsrd.com/feats/combat-feats/improved-wilding-strike-combat
+greater wilding strike    https://www.d20pfsrd.com/feats/combat-feats/greater-wilding-strike-combat
+winter’s strike    https://www.d20pfsrd.com/feats/combat-feats/winter-s-strike-combat
+witchbreaker    https://www.d20pfsrd.com/feats/combat-feats/witchbreaker-combat
+hags    https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/hag
+witches    https://www.d20pfsrd.com/classes/base-classes/witch
+break    https://www.d20pfsrd.com/magic/all-spells/b/break
+witty feint    https://www.d20pfsrd.com/feats/combat-feats/witty-feint-combat
+woodland wraith    https://www.d20pfsrd.com/feats/combat-feats/woodland-wraith-combat
+wounded paw gambit    https://www.d20pfsrd.com/feats/combat-feats/wounded-paw-gambit-combat-teamwork
+broken wing gambit    https://www.d20pfsrd.com/feats/combat-feats/broken-wing-gambit-combat-teamwork
+https://www.d20pfsrd.com/feats/combat-feats/#
+new pages    https://www.d20pfsrd.com/new-pages
+recent changes    https://www.d20pfsrd.com/recent-changes
+legal information/open game license    https://www.d20pfsrd.com/extras/legal/
+fan labs    https://www.d20pfsrd.com/extras/community-creations
+character sheets    https://www.d20pfsrd.com/extras/character-sheets
+downloads    https://www.d20pfsrd.com/extras/downloads

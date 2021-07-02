@@ -13,4 +13,5 @@ module.exports = {
   g: require('./gamecommands'),
   pronouns: require('./pronouns'),
   pf: require('./pfsrd'),
+  mr: require('./motwroll'),
 };
