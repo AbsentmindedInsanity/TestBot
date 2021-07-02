@@ -10,5 +10,7 @@ module.exports = {
   Help: require('./help'),
   Chargen: require('./character'),
   mtg: require('./mtgsearch'),
-  g: require('./gamecommands')
+  g: require('./gamecommands'),
+  pronouns: require('./pronouns'),
+  pf: require('./pfsrd'),
 };
